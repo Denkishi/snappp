@@ -1,0 +1,2200 @@
+{
+ "cards": [
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/abomination.webp?v=22",
+   "name": "Abomination",
+   "name_url": "https://marvelsnapzone.com/cards/abomination/",
+   "ability": "Foolish rabble! You are beneath me!",
+   "ability_url": "https://marvelsnapzone.com/cards/abomination/",
+   "cost": "5",
+   "power": "9"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/absorbing-man.webp?v=22",
+   "name": "Absorbing Man",
+   "name_url": "https://marvelsnapzone.com/cards/absorbing-man/",
+   "ability": "On Reveal: If the last card you played has an On Reveal ability, this card copies it.",
+   "ability_url": "https://marvelsnapzone.com/cards/absorbing-man/",
+   "cost": "4",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=22",
+   "name": "Adam Warlock",
+   "name_url": "https://marvelsnapzone.com/cards/adam-warlock/",
+   "ability": "At the end of each turn, if you are winning this location, draw a card.",
+   "ability_url": "https://marvelsnapzone.com/cards/adam-warlock/",
+   "cost": "2",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aero.webp?v=22",
+   "name": "Aero",
+   "name_url": "https://marvelsnapzone.com/cards/aero/",
+   "ability": "On Reveal: Move all enemy cards played this turn to this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/aero/",
+   "cost": "5",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agatha-harkness.webp?v=22",
+   "name": "Agatha Harkness",
+   "name_url": "https://marvelsnapzone.com/cards/agatha-harkness/",
+   "ability": "Agatha starts in your hand and plays your cards for you.",
+   "ability_url": "https://marvelsnapzone.com/cards/agatha-harkness/",
+   "cost": "6",
+   "power": "14"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-13.webp?v=22",
+   "name": "Agent 13",
+   "name_url": "https://marvelsnapzone.com/cards/agent-13/",
+   "ability": "On Reveal: Add a random card to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/agent-13/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-coulson.webp?v=22",
+   "name": "Agent Coulson",
+   "name_url": "https://marvelsnapzone.com/cards/agent-coulson/",
+   "ability": "On Reveal: Add a random 4-cost and 5-cost card to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/agent-coulson/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=22",
+   "name": "America Chavez",
+   "name_url": "https://marvelsnapzone.com/cards/america-chavez/",
+   "ability": "You always draw this card on turn 6, and not before.",
+   "ability_url": "https://marvelsnapzone.com/cards/america-chavez/",
+   "cost": "6",
+   "power": "9"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angel.webp?v=22",
+   "name": "Angel",
+   "name_url": "https://marvelsnapzone.com/cards/angel/",
+   "ability": "When one of your cards is destroyed, this flies out of your deck to replace it.",
+   "ability_url": "https://marvelsnapzone.com/cards/angel/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=22",
+   "name": "Angela",
+   "name_url": "https://marvelsnapzone.com/cards/angela/",
+   "ability": "When you play a card here, +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/angela/",
+   "cost": "2",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/annihilus.webp?v=22",
+   "name": "Annihilus",
+   "name_url": "https://marvelsnapzone.com/cards/annihilus/",
+   "ability": "On Reveal: Each of your cards randomly chooses a location to move to.",
+   "ability_url": "https://marvelsnapzone.com/cards/annihilus/",
+   "cost": "6",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=22",
+   "name": "Ant Man",
+   "name_url": "https://marvelsnapzone.com/cards/ant-man/",
+   "ability": "Ongoing: If you have 3 other cards here, +3 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/ant-man/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/apocalypse.webp?v=22",
+   "name": "Apocalypse",
+   "name_url": "https://marvelsnapzone.com/cards/apocalypse/",
+   "ability": "When you discard this from your hand, put it back with +4 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/apocalypse/",
+   "cost": "6",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=22",
+   "name": "Armor",
+   "name_url": "https://marvelsnapzone.com/cards/armor/",
+   "ability": "Ongoing: Cards at this location can't be destroyed.",
+   "ability_url": "https://marvelsnapzone.com/cards/armor/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arnim-zola.webp?v=22",
+   "name": "Arnim Zola",
+   "name_url": "https://marvelsnapzone.com/cards/arnim-zola/",
+   "ability": "On Reveal: Destroy a random friendly card here. Add copies of it to the other locations.",
+   "ability_url": "https://marvelsnapzone.com/cards/arnim-zola/",
+   "cost": "6",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/attuma.webp?v=22",
+   "name": "Attuma",
+   "name_url": "https://marvelsnapzone.com/cards/attuma/",
+   "ability": "If you have another card here at the end of your turn, destroy this.",
+   "ability_url": "https://marvelsnapzone.com/cards/attuma/",
+   "cost": "4",
+   "power": "10"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/baron-mordo.webp?v=22",
+   "name": "Baron Mordo",
+   "name_url": "https://marvelsnapzone.com/cards/baron-mordo/",
+   "ability": "On Reveal: Your opponent draws a card. Set its Cost to 6.",
+   "ability_url": "https://marvelsnapzone.com/cards/baron-mordo/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=22",
+   "name": "Bast",
+   "name_url": "https://marvelsnapzone.com/cards/bast/",
+   "ability": "On Reveal: Set the Power of all cards in your hand to 3.",
+   "ability_url": "https://marvelsnapzone.com/cards/bast/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beast.webp?v=22",
+   "name": "Beast",
+   "name_url": "https://marvelsnapzone.com/cards/beast/",
+   "ability": "On Reveal: Return your other cards at this location to your hand. They cost 1 less.",
+   "ability_url": "https://marvelsnapzone.com/cards/beast/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=22",
+   "name": "Bishop",
+   "name_url": "https://marvelsnapzone.com/cards/bishop/",
+   "ability": "When you play a card, this gains +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/bishop/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-bolt.webp?v=22",
+   "name": "Black Bolt",
+   "name_url": "https://marvelsnapzone.com/cards/black-bolt/",
+   "ability": "On Reveal: Your opponent must discard the lowest-Cost card in their hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/black-bolt/",
+   "cost": "5",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-cat.webp?v=22",
+   "name": "Black Cat",
+   "name_url": "https://marvelsnapzone.com/cards/black-cat/",
+   "ability": "If this is in your hand at the end of your turn, discard it.",
+   "ability_url": "https://marvelsnapzone.com/cards/black-cat/",
+   "cost": "3",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-knight.webp?v=22",
+   "name": "Black Knight",
+   "name_url": "https://marvelsnapzone.com/cards/black-knight/",
+   "ability": "When this is destroyed, draw a card.",
+   "ability_url": "https://marvelsnapzone.com/cards/black-knight/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-panther.webp?v=22",
+   "name": "Black Panther",
+   "name_url": "https://marvelsnapzone.com/cards/black-panther/",
+   "ability": "On Reveal: Double this card's Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/black-panther/",
+   "cost": "5",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-widow.webp?v=22",
+   "name": "Black Widow",
+   "name_url": "https://marvelsnapzone.com/cards/black-widow/",
+   "ability": "On Reveal: Add a Widow's Bite to your opponent's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/black-widow/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blade.webp?v=22",
+   "name": "Blade",
+   "name_url": "https://marvelsnapzone.com/cards/blade/",
+   "ability": "On Reveal: Discard a card from your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/blade/",
+   "cost": "1",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blink.webp?v=22",
+   "name": "Blink",
+   "name_url": "https://marvelsnapzone.com/cards/blink/",
+   "ability": "You can move this each turn. When it moves, +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/blink/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blob.webp?v=22",
+   "name": "Blob",
+   "name_url": "https://marvelsnapzone.com/cards/blob/",
+   "ability": "Ongoing: Nothing can move this to another location.",
+   "ability_url": "https://marvelsnapzone.com/cards/blob/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=22",
+   "name": "Blue Marvel",
+   "name_url": "https://marvelsnapzone.com/cards/blue-marvel/",
+   "ability": "Ongoing: Your other cards have +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/blue-marvel/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/brood.webp?v=22",
+   "name": "Brood",
+   "name_url": "https://marvelsnapzone.com/cards/brood/",
+   "ability": "On Reveal: Add 2 Broodlings to this location with the same Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/brood/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=22",
+   "name": "Bucky Barnes",
+   "name_url": "https://marvelsnapzone.com/cards/bucky-barnes/",
+   "ability": "When this is destroyed, create the Winter Soldier in its place.",
+   "ability_url": "https://marvelsnapzone.com/cards/bucky-barnes/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bullseye.webp?v=22",
+   "name": "Bullseye",
+   "name_url": "https://marvelsnapzone.com/cards/bullseye/",
+   "ability": "On Reveal: The next card you draw will be a 2-Cost card. (if any are left)",
+   "ability_url": "https://marvelsnapzone.com/cards/bullseye/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cable.webp?v=22",
+   "name": "Cable",
+   "name_url": "https://marvelsnapzone.com/cards/cable/",
+   "ability": "On Reveal: Put the bottom card of your opponent's deck into your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/cable/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america.webp?v=22",
+   "name": "Captain America",
+   "name_url": "https://marvelsnapzone.com/cards/captain-america/",
+   "ability": "Ongoing: Your other cards at this location have +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/captain-america/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-marvel.webp?v=22",
+   "name": "Captain Marvel",
+   "name_url": "https://marvelsnapzone.com/cards/captain-marvel/",
+   "ability": "At the end of the game, move to a location that wins you the game. (If possible)",
+   "ability_url": "https://marvelsnapzone.com/cards/captain-marvel/",
+   "cost": "5",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=22",
+   "name": "Carnage",
+   "name_url": "https://marvelsnapzone.com/cards/carnage/",
+   "ability": "On Reveal: Destroy your other cards here. +2 Power for each destroyed.",
+   "ability_url": "https://marvelsnapzone.com/cards/carnage/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cerebro.webp?v=22",
+   "name": "Cerebro",
+   "name_url": "https://marvelsnapzone.com/cards/cerebro/",
+   "ability": "Ongoing: Your highest Power cards get +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/cerebro/",
+   "cost": "3",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cloak.webp?v=22",
+   "name": "Cloak",
+   "name_url": "https://marvelsnapzone.com/cards/cloak/",
+   "ability": "On Reveal: Next turn, both players can move cards to this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/cloak/",
+   "cost": "2",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colleen-wing.webp?v=22",
+   "name": "Colleen Wing",
+   "name_url": "https://marvelsnapzone.com/cards/colleen-wing/",
+   "ability": "On Reveal: Discard the lowest-cost card from your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/colleen-wing/",
+   "cost": "2",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colossus.webp?v=22",
+   "name": "Colossus",
+   "name_url": "https://marvelsnapzone.com/cards/colossus/",
+   "ability": "Ongoing: Can't be destroyed, moved, or have its Power reduced.",
+   "ability_url": "https://marvelsnapzone.com/cards/colossus/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=22",
+   "name": "Cosmo",
+   "name_url": "https://marvelsnapzone.com/cards/cosmo/",
+   "ability": "Ongoing: On Reveal abilities won't happen at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/cosmo/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crossbones.webp?v=22",
+   "name": "Crossbones",
+   "name_url": "https://marvelsnapzone.com/cards/crossbones/",
+   "ability": "You can only play this at locations where you are winning.",
+   "ability_url": "https://marvelsnapzone.com/cards/crossbones/",
+   "cost": "4",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crystal.webp?v=22",
+   "name": "Crystal",
+   "name_url": "https://marvelsnapzone.com/cards/crystal/",
+   "ability": "On Reveal: If this is at the middle location, shuffle your hand into your deck and draw 3 cards.",
+   "ability_url": "https://marvelsnapzone.com/cards/crystal/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=22",
+   "name": "Cyclops",
+   "name_url": "https://marvelsnapzone.com/cards/cyclops/",
+   "ability": "Let's move, X-Men.",
+   "ability_url": "https://marvelsnapzone.com/cards/cyclops/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dagger.webp?v=22",
+   "name": "Dagger",
+   "name_url": "https://marvelsnapzone.com/cards/dagger/",
+   "ability": "When this moves to a location, +2 Power for each card your opponent has there.",
+   "ability_url": "https://marvelsnapzone.com/cards/dagger/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=22",
+   "name": "Daredevil",
+   "name_url": "https://marvelsnapzone.com/cards/daredevil/",
+   "ability": "On turn 5, you get to see your opponent's plays before you make your own.",
+   "ability_url": "https://marvelsnapzone.com/cards/daredevil/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/darkhawk.webp?v=22",
+   "name": "Darkhawk",
+   "name_url": "https://marvelsnapzone.com/cards/darkhawk/",
+   "ability": "Ongoing: +2 Power for each card in your opponent's deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/darkhawk/",
+   "cost": "4",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dazzler.webp?v=22",
+   "name": "Dazzler",
+   "name_url": "https://marvelsnapzone.com/cards/dazzler/",
+   "ability": "Ongoing: If you have 4 cards at each location, +6 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/dazzler/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deadpool.webp?v=22",
+   "name": "Deadpool",
+   "name_url": "https://marvelsnapzone.com/cards/deadpool/",
+   "ability": "When this is destroyed, return it to your hand with double the Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/deadpool/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death.webp?v=22",
+   "name": "Death",
+   "name_url": "https://marvelsnapzone.com/cards/death/",
+   "ability": "Costs 1 less for each card destroyed this game.",
+   "ability_url": "https://marvelsnapzone.com/cards/death/",
+   "cost": "9",
+   "power": "12"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deathlok.webp?v=22",
+   "name": "Deathlok",
+   "name_url": "https://marvelsnapzone.com/cards/deathlok/",
+   "ability": "On Reveal: Destroy your other cards at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/deathlok/",
+   "cost": "3",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/debrii.webp?v=22",
+   "name": "Debrii",
+   "name_url": "https://marvelsnapzone.com/cards/debrii/",
+   "ability": "On Reveal: Add a Rock to each other location, for both players.",
+   "ability_url": "https://marvelsnapzone.com/cards/debrii/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/destroyer.webp?v=22",
+   "name": "Destroyer",
+   "name_url": "https://marvelsnapzone.com/cards/destroyer/",
+   "ability": "On Reveal: Destroy your other cards.",
+   "ability_url": "https://marvelsnapzone.com/cards/destroyer/",
+   "cost": "6",
+   "power": "15"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/devil-dinosaur.webp?v=22",
+   "name": "Devil Dinosaur",
+   "name_url": "https://marvelsnapzone.com/cards/devil-dinosaur/",
+   "ability": "Ongoing: +2 Power for each card in your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/devil-dinosaur/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom.webp?v=22",
+   "name": "Doctor Doom",
+   "name_url": "https://marvelsnapzone.com/cards/doctor-doom/",
+   "ability": "On Reveal: Add a 5-Power DoomBot to each other location.",
+   "ability_url": "https://marvelsnapzone.com/cards/doctor-doom/",
+   "cost": "6",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-octopus.webp?v=22",
+   "name": "Doctor Octopus",
+   "name_url": "https://marvelsnapzone.com/cards/doctor-octopus/",
+   "ability": "On Reveal: Pull 4 random cards from your opponent's hand to their side of this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/doctor-octopus/",
+   "cost": "5",
+   "power": "10"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-strange.webp?v=22",
+   "name": "Doctor Strange",
+   "name_url": "https://marvelsnapzone.com/cards/doctor-strange/",
+   "ability": "On Reveal: Move your highest Power cards to this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/doctor-strange/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/domino.webp?v=22",
+   "name": "Domino",
+   "name_url": "https://marvelsnapzone.com/cards/domino/",
+   "ability": "You always draw this card on turn 2, and not before.",
+   "ability_url": "https://marvelsnapzone.com/cards/domino/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dracula.webp?v=22",
+   "name": "Dracula",
+   "name_url": "https://marvelsnapzone.com/cards/dracula/",
+   "ability": "At the end of the game, discard a card from your hand. This has its Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/dracula/",
+   "cost": "4",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/drax.webp?v=22",
+   "name": "Drax",
+   "name_url": "https://marvelsnapzone.com/cards/drax/",
+   "ability": "On Reveal: If your opponent played a card here this turn, +4 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/drax/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ebony-maw.webp?v=22",
+   "name": "Ebony Maw",
+   "name_url": "https://marvelsnapzone.com/cards/ebony-maw/",
+   "ability": "You can't play this after turn 3. Ongoing: You can't play cards here.",
+   "ability_url": "https://marvelsnapzone.com/cards/ebony-maw/",
+   "cost": "1",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/electro.webp?v=22",
+   "name": "Electro",
+   "name_url": "https://marvelsnapzone.com/cards/electro/",
+   "ability": "On Reveal: +1 Max Energy. Ongoing: You can only play 1 card a turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/electro/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elektra.webp?v=22",
+   "name": "Elektra",
+   "name_url": "https://marvelsnapzone.com/cards/elektra/",
+   "ability": "On Reveal: Destroy a random enemy 1-Cost card at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/elektra/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elsa-bloodstone.webp?v=22",
+   "name": "Elsa Bloodstone",
+   "name_url": "https://marvelsnapzone.com/cards/elsa-bloodstone/",
+   "ability": "At the end of each turn, if you are winning this location, +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/elsa-bloodstone/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=22",
+   "name": "Enchantress",
+   "name_url": "https://marvelsnapzone.com/cards/enchantress/",
+   "ability": "On Reveal: Remove the abilities from all Ongoing cards at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/enchantress/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/falcon.webp?v=22",
+   "name": "Falcon",
+   "name_url": "https://marvelsnapzone.com/cards/falcon/",
+   "ability": "On Reveal: Return your 1-Cost cards to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/falcon/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flatman.webp?v=22",
+   "name": "Flatman",
+   "name_url": "https://marvelsnapzone.com/cards/flatman/",
+   "ability": "Ongoing: Adjacent locations have +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/flatman/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=22",
+   "name": "Forge",
+   "name_url": "https://marvelsnapzone.com/cards/forge/",
+   "ability": "On Reveal: Give the next card you play +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/forge/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galactus.webp?v=22",
+   "name": "Galactus",
+   "name_url": "https://marvelsnapzone.com/cards/galactus/",
+   "ability": "On Reveal: If this is your only card here, destroy all other locations.",
+   "ability_url": "https://marvelsnapzone.com/cards/galactus/",
+   "cost": "6",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gambit.webp?v=22",
+   "name": "Gambit",
+   "name_url": "https://marvelsnapzone.com/cards/gambit/",
+   "ability": "On Reveal: Discard a card from your hand. Destroy a random enemy card.",
+   "ability_url": "https://marvelsnapzone.com/cards/gambit/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gamora.webp?v=22",
+   "name": "Gamora",
+   "name_url": "https://marvelsnapzone.com/cards/gamora/",
+   "ability": "On Reveal: If your opponent played a card here this turn, +5 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/gamora/",
+   "cost": "5",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost.webp?v=22",
+   "name": "Ghost",
+   "name_url": "https://marvelsnapzone.com/cards/ghost/",
+   "ability": "Ongoing: Your cards are always revealed last. (Their On Reveal abilities happen last.)",
+   "ability_url": "https://marvelsnapzone.com/cards/ghost/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-rider.webp?v=22",
+   "name": "Ghost Rider",
+   "name_url": "https://marvelsnapzone.com/cards/ghost-rider/",
+   "ability": "On Reveal: Bring back one of your discarded cards to this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/ghost-rider/",
+   "cost": "4",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-spider.webp?v=22",
+   "name": "Ghost-Spider",
+   "name_url": "https://marvelsnapzone.com/cards/ghost-spider/",
+   "ability": "On Reveal: Move the last card you played here.",
+   "ability_url": "https://marvelsnapzone.com/cards/ghost-spider/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/giganto.webp?v=22",
+   "name": "Giganto",
+   "name_url": "https://marvelsnapzone.com/cards/giganto/",
+   "ability": "You can only play this at the left location.",
+   "ability_url": "https://marvelsnapzone.com/cards/giganto/",
+   "cost": "6",
+   "power": "14"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goblin-queen.webp?v=22",
+   "name": "Goblin Queen",
+   "name_url": "https://marvelsnapzone.com/cards/goblin-queen/",
+   "ability": "On Reveal: Other cards can't be revealed this turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/goblin-queen/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goose.webp?v=22",
+   "name": "Goose",
+   "name_url": "https://marvelsnapzone.com/cards/goose/",
+   "ability": "Ongoing: Nobody can play cards that cost 4, 5, or 6 at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/goose/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/green-goblin.webp?v=22",
+   "name": "Green Goblin",
+   "name_url": "https://marvelsnapzone.com/cards/green-goblin/",
+   "ability": "On Reveal: Your opponent gains control of this.",
+   "ability_url": "https://marvelsnapzone.com/cards/green-goblin/",
+   "cost": "3",
+   "power": "-3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/groot.webp?v=22",
+   "name": "Groot",
+   "name_url": "https://marvelsnapzone.com/cards/groot/",
+   "ability": "On Reveal: If your opponent played a card here this turn, +3 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/groot/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gwenpool.webp?v=22",
+   "name": "Gwenpool",
+   "name_url": "https://marvelsnapzone.com/cards/gwenpool/",
+   "ability": "On Reveal: Double this card's Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/gwenpool/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye.webp?v=22",
+   "name": "Hawkeye",
+   "name_url": "https://marvelsnapzone.com/cards/hawkeye/",
+   "ability": "On Reveal: If you play a card here next turn, +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/hawkeye/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hazmat.webp?v=22",
+   "name": "Hazmat",
+   "name_url": "https://marvelsnapzone.com/cards/hazmat/",
+   "ability": "On Reveal: Afflict all other cards with -1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/hazmat/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/heimdall.webp?v=22",
+   "name": "Heimdall",
+   "name_url": "https://marvelsnapzone.com/cards/heimdall/",
+   "ability": "On Reveal: Move your other cards one location to the left.",
+   "ability_url": "https://marvelsnapzone.com/cards/heimdall/",
+   "cost": "6",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hela.webp?v=22",
+   "name": "Hela",
+   "name_url": "https://marvelsnapzone.com/cards/hela/",
+   "ability": "On Reveal: Play all cards you discarded from your hand to random locations.",
+   "ability_url": "https://marvelsnapzone.com/cards/hela/",
+   "cost": "6",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/helicarrier.webp?v=22",
+   "name": "Helicarrier",
+   "name_url": "https://marvelsnapzone.com/cards/helicarrier/",
+   "ability": "When you discard this from your hand, add 3 random cards to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/helicarrier/",
+   "cost": "6",
+   "power": "10"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hellcow.webp?v=22",
+   "name": "Hellcow",
+   "name_url": "https://marvelsnapzone.com/cards/hellcow/",
+   "ability": "On Reveal: Discard 2 cards from your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/hellcow/",
+   "cost": "4",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hit-monkey.webp?v=22",
+   "name": "Hit Monkey",
+   "name_url": "https://marvelsnapzone.com/cards/hit-monkey/",
+   "ability": "On Reveal: Gain +3 Power for each other card you played this turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/hit-monkey/",
+   "cost": "2",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hobgoblin.webp?v=22",
+   "name": "Hobgoblin",
+   "name_url": "https://marvelsnapzone.com/cards/hobgoblin/",
+   "ability": "On Reveal: Your opponent gains control of this.",
+   "ability_url": "https://marvelsnapzone.com/cards/hobgoblin/",
+   "cost": "5",
+   "power": "-8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk.webp?v=22",
+   "name": "Hulk",
+   "name_url": "https://marvelsnapzone.com/cards/hulk/",
+   "ability": "HULK SMASH!",
+   "ability_url": "https://marvelsnapzone.com/cards/hulk/",
+   "cost": "6",
+   "power": "12"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk-buster.webp?v=22",
+   "name": "Hulkbuster",
+   "name_url": "https://marvelsnapzone.com/cards/hulkbuster/",
+   "ability": "On Reveal: Merge this card with a random friendly card at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/hulkbuster/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/human-torch.webp?v=22",
+   "name": "Human Torch",
+   "name_url": "https://marvelsnapzone.com/cards/human-torch/",
+   "ability": "When this moves, double its Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/human-torch/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=22",
+   "name": "Iceman",
+   "name_url": "https://marvelsnapzone.com/cards/iceman/",
+   "ability": "On Reveal: Give a random card in your opponent's hand +1 Cost. (maximum 6)",
+   "ability_url": "https://marvelsnapzone.com/cards/iceman/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/invisible-woman.webp?v=22",
+   "name": "Invisible Woman",
+   "name_url": "https://marvelsnapzone.com/cards/invisible-woman/",
+   "ability": "Ongoing: Cards you play here are not revealed until the game ends.",
+   "ability_url": "https://marvelsnapzone.com/cards/invisible-woman/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-fist.webp?v=22",
+   "name": "Iron Fist",
+   "name_url": "https://marvelsnapzone.com/cards/iron-fist/",
+   "ability": "On Reveal: Move the next card you play one location to the left after it reveals.",
+   "ability_url": "https://marvelsnapzone.com/cards/iron-fist/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=22",
+   "name": "Iron Man",
+   "name_url": "https://marvelsnapzone.com/cards/iron-man/",
+   "ability": "Ongoing: Your total Power is doubled at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/iron-man/",
+   "cost": "5",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ironheart.webp?v=22",
+   "name": "Ironheart",
+   "name_url": "https://marvelsnapzone.com/cards/ironheart/",
+   "ability": "On Reveal: Give 3 other friendly cards +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/ironheart/",
+   "cost": "3",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-mighty-thor.webp?v=22",
+   "name": "Jane Foster Mighty Thor",
+   "name_url": "https://marvelsnapzone.com/cards/jane-foster-mighty-thor/",
+   "ability": "On Reveal: Draw all cards that Cost 0 from your deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/jane-foster-mighty-thor/",
+   "cost": "5",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jean-grey.webp?v=22",
+   "name": "Jean Grey",
+   "name_url": "https://marvelsnapzone.com/cards/jean-grey/",
+   "ability": "On Reveal: The next card your opponent plays must be played here, if possible.",
+   "ability_url": "https://marvelsnapzone.com/cards/jean-grey/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jessica-jones.webp?v=22",
+   "name": "Jessica Jones",
+   "name_url": "https://marvelsnapzone.com/cards/jessica-jones/",
+   "ability": "On Reveal: If you don't play a card here next turn, +4 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/jessica-jones/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jubilee.webp?v=22",
+   "name": "Jubilee",
+   "name_url": "https://marvelsnapzone.com/cards/jubilee/",
+   "ability": "On Reveal: Play a card from your deck at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/jubilee/",
+   "cost": "4",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/juggernaut.webp?v=22",
+   "name": "Juggernaut",
+   "name_url": "https://marvelsnapzone.com/cards/juggernaut/",
+   "ability": "On Reveal: If your opponent played cards here this turn, move them randomly.",
+   "ability_url": "https://marvelsnapzone.com/cards/juggernaut/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ka-zar.webp?v=22",
+   "name": "Ka-Zar",
+   "name_url": "https://marvelsnapzone.com/cards/ka-zar/",
+   "ability": "Ongoing: Your 1-Cost cards have +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/ka-zar/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kang.webp?v=22",
+   "name": "Kang",
+   "name_url": "https://marvelsnapzone.com/cards/kang/",
+   "ability": "On Reveal: Look at what your opponent did, then restart the turn. (without Kang)",
+   "ability_url": "https://marvelsnapzone.com/cards/kang/",
+   "cost": "5",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=22",
+   "name": "Killmonger",
+   "name_url": "https://marvelsnapzone.com/cards/killmonger/",
+   "ability": "On Reveal: Destroy ALL 1-Cost cards.",
+   "ability_url": "https://marvelsnapzone.com/cards/killmonger/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/king-eitri.webp?v=22",
+   "name": "King Eitri",
+   "name_url": "https://marvelsnapzone.com/cards/king-eitri/",
+   "ability": "On Reveal: Give the next card you play +4 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/king-eitri/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kingpin.webp?v=22",
+   "name": "Kingpin",
+   "name_url": "https://marvelsnapzone.com/cards/kingpin/",
+   "ability": "When a card moves here on turn 6, destroy it.",
+   "ability_url": "https://marvelsnapzone.com/cards/kingpin/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kitty-pryde.webp?v=22",
+   "name": "Kitty Pryde",
+   "name_url": "https://marvelsnapzone.com/cards/kitty-pryde/",
+   "ability": "You can pull this back to your hand at any time.",
+   "ability_url": "https://marvelsnapzone.com/cards/kitty-pryde/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klaw.webp?v=22",
+   "name": "Klaw",
+   "name_url": "https://marvelsnapzone.com/cards/klaw/",
+   "ability": "Ongoing: The location to the right has +6 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/klaw/",
+   "cost": "5",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/knull.webp?v=22",
+   "name": "Knull",
+   "name_url": "https://marvelsnapzone.com/cards/knull/",
+   "ability": "Ongoing: Has the combined Power of all cards destroyed this game.",
+   "ability_url": "https://marvelsnapzone.com/cards/knull/",
+   "cost": "6",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/korg.webp?v=22",
+   "name": "Korg",
+   "name_url": "https://marvelsnapzone.com/cards/korg/",
+   "ability": "On Reveal: Shuffle a Rock into your opponent's deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/korg/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kraven.webp?v=22",
+   "name": "Kraven",
+   "name_url": "https://marvelsnapzone.com/cards/kraven/",
+   "ability": "When a card moves here, this gets +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/kraven/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-deathstrike.webp?v=22",
+   "name": "Lady Deathstrike",
+   "name_url": "https://marvelsnapzone.com/cards/lady-deathstrike/",
+   "ability": "On Reveal: Destroy the enemy card with the highest Power at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/lady-deathstrike/",
+   "cost": "6",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-sif.webp?v=22",
+   "name": "Lady Sif",
+   "name_url": "https://marvelsnapzone.com/cards/lady-sif/",
+   "ability": "On Reveal: Discard the highest-cost card from your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/lady-sif/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/leader.webp?v=22",
+   "name": "Leader",
+   "name_url": "https://marvelsnapzone.com/cards/leader/",
+   "ability": "On Reveal: Copy all cards your opponent played this turn, but on your side.",
+   "ability_url": "https://marvelsnapzone.com/cards/leader/",
+   "cost": "6",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/leech.webp?v=22",
+   "name": "Leech",
+   "name_url": "https://marvelsnapzone.com/cards/leech/",
+   "ability": "On Reveal: Remove the abilities from all cards in your opponent's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/leech/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/legion.webp?v=22",
+   "name": "Legion",
+   "name_url": "https://marvelsnapzone.com/cards/legion/",
+   "ability": "On Reveal: Change other locations into this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/legion/",
+   "cost": "5",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lizard.webp?v=22",
+   "name": "Lizard",
+   "name_url": "https://marvelsnapzone.com/cards/lizard/",
+   "ability": "Ongoing: -3 Power if your opponent has 4 cards here.",
+   "ability_url": "https://marvelsnapzone.com/cards/lizard/",
+   "cost": "2",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lockjaw.webp?v=22",
+   "name": "Lockjaw",
+   "name_url": "https://marvelsnapzone.com/cards/lockjaw/",
+   "ability": "When you play a card here, swap it with a card in your deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/lockjaw/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=22",
+   "name": "Luke Cage",
+   "name_url": "https://marvelsnapzone.com/cards/luke-cage/",
+   "ability": "Ongoing: Your cards can't have their Power reduced.",
+   "ability_url": "https://marvelsnapzone.com/cards/luke-cage/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mbaku.webp?v=22",
+   "name": "M'Baku",
+   "name_url": "https://marvelsnapzone.com/cards/mbaku/",
+   "ability": "If this is in your deck at the end of the game, it jumps to a random location.",
+   "ability_url": "https://marvelsnapzone.com/cards/mbaku/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=22",
+   "name": "Magik",
+   "name_url": "https://marvelsnapzone.com/cards/magik/",
+   "ability": "You can't play this on turn 6. On Reveal: Change this location to 'Limbo'.",
+   "ability_url": "https://marvelsnapzone.com/cards/magik/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto.webp?v=22",
+   "name": "Magneto",
+   "name_url": "https://marvelsnapzone.com/cards/magneto/",
+   "ability": "On Reveal: Move all opposing 3 and 4-Cost cards to this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/magneto/",
+   "cost": "6",
+   "power": "12"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/makkari.webp?v=22",
+   "name": "Makkari",
+   "name_url": "https://marvelsnapzone.com/cards/makkari/",
+   "ability": "When you draw this, place it at a random location.",
+   "ability_url": "https://marvelsnapzone.com/cards/makkari/",
+   "cost": "0",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis.webp?v=22",
+   "name": "Mantis",
+   "name_url": "https://marvelsnapzone.com/cards/mantis/",
+   "ability": "On Reveal: If your opponent played a card here this turn, draw a card from their deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/mantis/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maria-hill.webp?v=22",
+   "name": "Maria Hill",
+   "name_url": "https://marvelsnapzone.com/cards/maria-hill/",
+   "ability": "On Reveal: Add a random 1-Cost card to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/maria-hill/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/master-mold.webp?v=22",
+   "name": "Master Mold",
+   "name_url": "https://marvelsnapzone.com/cards/master-mold/",
+   "ability": "On Reveal: Add 3 Sentinel to your opponent's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/master-mold/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maximus.webp?v=22",
+   "name": "Maximus",
+   "name_url": "https://marvelsnapzone.com/cards/maximus/",
+   "ability": "On Reveal: Your opponent draws 2 cards.",
+   "ability_url": "https://marvelsnapzone.com/cards/maximus/",
+   "cost": "3",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/medusa.webp?v=22",
+   "name": "Medusa",
+   "name_url": "https://marvelsnapzone.com/cards/medusa/",
+   "ability": "On Reveal: If this is at the middle location, +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/medusa/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mephisto.webp?v=22",
+   "name": "Mephisto",
+   "name_url": "https://marvelsnapzone.com/cards/mephisto/",
+   "ability": "If you win this game, double your winnings.",
+   "ability_url": "https://marvelsnapzone.com/cards/mephisto/",
+   "cost": "6",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miles-morales.webp?v=22",
+   "name": "Miles Morales",
+   "name_url": "https://marvelsnapzone.com/cards/miles-morales/",
+   "ability": "If a card moved last turn, this costs 1.",
+   "ability_url": "https://marvelsnapzone.com/cards/miles-morales/",
+   "cost": "4",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mirage.webp?v=22",
+   "name": "Mirage",
+   "name_url": "https://marvelsnapzone.com/cards/mirage/",
+   "ability": "As you play this, disguise it as Mister Fantastic. After the final turn, reveal it.",
+   "ability_url": "https://marvelsnapzone.com/cards/mirage/",
+   "cost": "4",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=22",
+   "name": "Mister Fantastic",
+   "name_url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+   "ability": "Ongoing: Adjacent locations have +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-negative.webp?v=22",
+   "name": "Mister Negative",
+   "name_url": "https://marvelsnapzone.com/cards/mister-negative/",
+   "ability": "On Reveal: Swap the Power and Cost of all cards in your deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/mister-negative/",
+   "cost": "4",
+   "power": "-1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-sinister.webp?v=22",
+   "name": "Mister Sinister",
+   "name_url": "https://marvelsnapzone.com/cards/mister-sinister/",
+   "ability": "On Reveal: Add a Sinister Clone to this location with the same Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/mister-sinister/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misty-knight.webp?v=22",
+   "name": "Misty Knight",
+   "name_url": "https://marvelsnapzone.com/cards/misty-knight/",
+   "ability": "We've got to save this city.",
+   "ability_url": "https://marvelsnapzone.com/cards/misty-knight/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/modok.webp?v=22",
+   "name": "MODOK",
+   "name_url": "https://marvelsnapzone.com/cards/modok/",
+   "ability": "On Reveal: Discard your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/modok/",
+   "cost": "5",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=22",
+   "name": "Mojo",
+   "name_url": "https://marvelsnapzone.com/cards/mojo/",
+   "ability": "Ongoing: If both players have 4 cards at this location, +6 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/mojo/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-girl.webp?v=22",
+   "name": "Moon Girl",
+   "name_url": "https://marvelsnapzone.com/cards/moon-girl/",
+   "ability": "On Reveal: Duplicate your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/moon-girl/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-knight.webp?v=22",
+   "name": "Moon Knight",
+   "name_url": "https://marvelsnapzone.com/cards/moon-knight/",
+   "ability": "On Reveal: Discard a card from each player's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/moon-knight/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morbius.webp?v=22",
+   "name": "Morbius",
+   "name_url": "https://marvelsnapzone.com/cards/morbius/",
+   "ability": "Ongoing: +2 Power for each time you discarded a card this game.",
+   "ability_url": "https://marvelsnapzone.com/cards/morbius/",
+   "cost": "2",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morph.webp?v=22",
+   "name": "Morph",
+   "name_url": "https://marvelsnapzone.com/cards/morph/",
+   "ability": "On Reveal: Become a copy of a random card in your opponent's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/morph/",
+   "cost": "3",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ms.-marvel.webp?v=22",
+   "name": "Ms. Marvel",
+   "name_url": "https://marvelsnapzone.com/cards/ms-marvel/",
+   "ability": "Ongoing: If this is your only card here, adjacent locations have +5 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/ms-marvel/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/multiple-man.webp?v=22",
+   "name": "Multiple Man",
+   "name_url": "https://marvelsnapzone.com/cards/multiple-man/",
+   "ability": "When this moves, add a copy to the old location.",
+   "ability_url": "https://marvelsnapzone.com/cards/multiple-man/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio.webp?v=22",
+   "name": "Mysterio",
+   "name_url": "https://marvelsnapzone.com/cards/mysterio/",
+   "ability": "As you play this, play Illusions to other locations. Disguise this as an Illusion until the game ends.",
+   "ability_url": "https://marvelsnapzone.com/cards/mysterio/",
+   "cost": "2",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=22",
+   "name": "Mystique",
+   "name_url": "https://marvelsnapzone.com/cards/mystique/",
+   "ability": "On Reveal: If the last card you played has an Ongoing ability, this card gains it.",
+   "ability_url": "https://marvelsnapzone.com/cards/mystique/",
+   "cost": "3",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nakia.webp?v=22",
+   "name": "Nakia",
+   "name_url": "https://marvelsnapzone.com/cards/nakia/",
+   "ability": "On Reveal: Give the 2 leftmost cards in your hand +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/nakia/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/namor.webp?v=22",
+   "name": "Namor",
+   "name_url": "https://marvelsnapzone.com/cards/namor/",
+   "ability": "Ongoing: +5 Power if this is your only card here.",
+   "ability_url": "https://marvelsnapzone.com/cards/namor/",
+   "cost": "4",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nebula.webp?v=22",
+   "name": "Nebula",
+   "name_url": "https://marvelsnapzone.com/cards/nebula/",
+   "ability": "On Reveal: If your opponent played a card here this turn, x2 Power and put this in your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/nebula/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/negasonic-teenage-warhead.webp?v=22",
+   "name": "Negasonic Teenage Warhead",
+   "name_url": "https://marvelsnapzone.com/cards/negasonic-teenage-warhead/",
+   "ability": "When any card is played here, destroy this card AND that card.",
+   "ability_url": "https://marvelsnapzone.com/cards/negasonic-teenage-warhead/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nick-fury.webp?v=22",
+   "name": "Nick Fury",
+   "name_url": "https://marvelsnapzone.com/cards/nick-fury/",
+   "ability": "On Reveal: Add 3 random 6-Cost cards to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/nick-fury/",
+   "cost": "5",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/night-nurse.webp?v=22",
+   "name": "Night Nurse",
+   "name_url": "https://marvelsnapzone.com/cards/night-nurse/",
+   "ability": "On Reveal: Add all cards you discarded or destroyed last turn to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/night-nurse/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=22",
+   "name": "Nightcrawler",
+   "name_url": "https://marvelsnapzone.com/cards/nightcrawler/",
+   "ability": "You can move this once.",
+   "ability_url": "https://marvelsnapzone.com/cards/nightcrawler/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=22",
+   "name": "Nova",
+   "name_url": "https://marvelsnapzone.com/cards/nova/",
+   "ability": "When this is destroyed, give your cards +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/nova/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/odin.webp?v=22",
+   "name": "Odin",
+   "name_url": "https://marvelsnapzone.com/cards/odin/",
+   "ability": "On Reveal: Activate the On Reveal abilities of your other cards at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/odin/",
+   "cost": "6",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/okoye.webp?v=22",
+   "name": "Okoye",
+   "name_url": "https://marvelsnapzone.com/cards/okoye/",
+   "ability": "On Reveal: Give every card in your deck +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/okoye/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/omega-red.webp?v=22",
+   "name": "Omega Red",
+   "name_url": "https://marvelsnapzone.com/cards/omega-red/",
+   "ability": "Ongoing: If you're ahead by 10 Power here, +4 Power to other locations.",
+   "ability_url": "https://marvelsnapzone.com/cards/omega-red/",
+   "cost": "4",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaught.webp?v=22",
+   "name": "Onslaught",
+   "name_url": "https://marvelsnapzone.com/cards/onslaught/",
+   "ability": "Ongoing: Double your other Ongoing effects at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/onslaught/",
+   "cost": "6",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/orka.webp?v=22",
+   "name": "Orka",
+   "name_url": "https://marvelsnapzone.com/cards/orka/",
+   "ability": "Ongoing: +5 Power if this is your only card here.",
+   "ability_url": "https://marvelsnapzone.com/cards/orka/",
+   "cost": "6",
+   "power": "9"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/patriot.webp?v=22",
+   "name": "Patriot",
+   "name_url": "https://marvelsnapzone.com/cards/patriot/",
+   "ability": "Ongoing: Your cards with no abilities have +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/patriot/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=22",
+   "name": "Polaris",
+   "name_url": "https://marvelsnapzone.com/cards/polaris/",
+   "ability": "On Reveal: Move an opposing 1 or 2-Cost card to this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/polaris/",
+   "cost": "3",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x.webp?v=22",
+   "name": "Professor X",
+   "name_url": "https://marvelsnapzone.com/cards/professor-x/",
+   "ability": "Ongoing: Lock down this location. (Cards can't be added, removed, etc.)",
+   "ability_url": "https://marvelsnapzone.com/cards/professor-x/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=22",
+   "name": "Psylocke",
+   "name_url": "https://marvelsnapzone.com/cards/psylocke/",
+   "ability": "On Reveal: Next turn, you get +1 Energy.",
+   "ability_url": "https://marvelsnapzone.com/cards/psylocke/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/punisher.webp?v=22",
+   "name": "Punisher",
+   "name_url": "https://marvelsnapzone.com/cards/punisher/",
+   "ability": "Ongoing: +1 Power for each opposing card at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/punisher/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quake.webp?v=22",
+   "name": "Quake",
+   "name_url": "https://marvelsnapzone.com/cards/quake/",
+   "ability": "On Reveal: If this is at the middle location, swap the positions of each location.",
+   "ability_url": "https://marvelsnapzone.com/cards/quake/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quicksilver.webp?v=22",
+   "name": "Quicksilver",
+   "name_url": "https://marvelsnapzone.com/cards/quicksilver/",
+   "ability": "Starts in your opening hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/quicksilver/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=22",
+   "name": "Quinjet",
+   "name_url": "https://marvelsnapzone.com/cards/quinjet/",
+   "ability": "Ongoing: Cards that didn't start in your deck cost 1 less.",
+   "ability_url": "https://marvelsnapzone.com/cards/quinjet/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/random.webp?v=22",
+   "name": "Random",
+   "name_url": "https://marvelsnapzone.com/cards/random/",
+   "ability": "On Reveal: Set this card's Power equal to the Power of a random card in your deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/random/",
+   "cost": "4",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-guardian.webp?v=22",
+   "name": "Red Guardian",
+   "name_url": "https://marvelsnapzone.com/cards/red-guardian/",
+   "ability": "On Reveal: You must play a card here next turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/red-guardian/",
+   "cost": "3",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-skull.webp?v=22",
+   "name": "Red Skull",
+   "name_url": "https://marvelsnapzone.com/cards/red-skull/",
+   "ability": "Ongoing: Enemy cards at this location have +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/red-skull/",
+   "cost": "5",
+   "power": "15"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rescue.webp?v=22",
+   "name": "Rescue",
+   "name_url": "https://marvelsnapzone.com/cards/rescue/",
+   "ability": "On Reveal: If you play a card here next turn, +5 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/rescue/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rhino.webp?v=22",
+   "name": "Rhino",
+   "name_url": "https://marvelsnapzone.com/cards/rhino/",
+   "ability": "On Reveal: Ruin this location. (remove its ability)",
+   "ability_url": "https://marvelsnapzone.com/cards/rhino/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-racoon.webp?v=22",
+   "name": "Rocket Raccoon",
+   "name_url": "https://marvelsnapzone.com/cards/rocket-raccoon/",
+   "ability": "On Reveal: If your opponent played a card here this turn, +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/rocket-raccoon/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rockslide.webp?v=22",
+   "name": "Rockslide",
+   "name_url": "https://marvelsnapzone.com/cards/rockslide/",
+   "ability": "On Reveal: Shuffle 2 Rocks into your opponent's deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/rockslide/",
+   "cost": "4",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rogue.webp?v=22",
+   "name": "Rogue",
+   "name_url": "https://marvelsnapzone.com/cards/rogue/",
+   "ability": "On Reveal: Steal an Ongoing ability from a random enemy card at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/rogue/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ronan-the-accuser.webp?v=22",
+   "name": "Ronan the Accuser",
+   "name_url": "https://marvelsnapzone.com/cards/ronan-the-accuser/",
+   "ability": "Ongoing: +2 Power for each card in your opponent's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/ronan-the-accuser/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sabretooth.webp?v=22",
+   "name": "Sabretooth",
+   "name_url": "https://marvelsnapzone.com/cards/sabretooth/",
+   "ability": "When this is destroyed, return it to your hand. It costs 0.",
+   "ability_url": "https://marvelsnapzone.com/cards/sabretooth/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sandman.webp?v=22",
+   "name": "Sandman",
+   "name_url": "https://marvelsnapzone.com/cards/sandman/",
+   "ability": "Ongoing: Players can only play 1 card a turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/sandman/",
+   "cost": "4",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sauron.webp?v=22",
+   "name": "Sauron",
+   "name_url": "https://marvelsnapzone.com/cards/sauron/",
+   "ability": "On Reveal: Remove the abilities from all Ongoing cards in your hand and deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/sauron/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-witch.webp?v=22",
+   "name": "Scarlet Witch",
+   "name_url": "https://marvelsnapzone.com/cards/scarlet-witch/",
+   "ability": "On Reveal: Replace this location with a random new one.",
+   "ability_url": "https://marvelsnapzone.com/cards/scarlet-witch/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scorpion.webp?v=22",
+   "name": "Scorpion",
+   "name_url": "https://marvelsnapzone.com/cards/scorpion/",
+   "ability": "On Reveal: Afflict cards in your opponent's hand with -1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/scorpion/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel.webp?v=22",
+   "name": "Sentinel",
+   "name_url": "https://marvelsnapzone.com/cards/sentinel/",
+   "ability": "On Reveal: Add another Sentinel to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/sentinel/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentry.webp?v=22",
+   "name": "Sentry",
+   "name_url": "https://marvelsnapzone.com/cards/sentry/",
+   "ability": "Cannot be played at the right location. On Reveal: Add a -8 Power Void to the right location.",
+   "ability_url": "https://marvelsnapzone.com/cards/sentry/",
+   "cost": "4",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sera.webp?v=22",
+   "name": "Sera",
+   "name_url": "https://marvelsnapzone.com/cards/sera/",
+   "ability": "Ongoing: Cards in your hand cost 1 less. (minimum 1)",
+   "ability_url": "https://marvelsnapzone.com/cards/sera/",
+   "cost": "5",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shadow-king.webp?v=22",
+   "name": "Shadow King",
+   "name_url": "https://marvelsnapzone.com/cards/shadow-king/",
+   "ability": "On Reveal: Destroy all other cards that have 2 or less Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/shadow-king/",
+   "cost": "6",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=22",
+   "name": "Shang-Chi",
+   "name_url": "https://marvelsnapzone.com/cards/shang-chi/",
+   "ability": "On Reveal: Destroy all enemy cards at this location that have 9 or more Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/shang-chi/",
+   "cost": "4",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shanna.webp?v=22",
+   "name": "Shanna",
+   "name_url": "https://marvelsnapzone.com/cards/shanna/",
+   "ability": "On Reveal: Add a random 1-Cost card to each location",
+   "ability_url": "https://marvelsnapzone.com/cards/shanna/",
+   "cost": "4",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/she-hulk.webp?v=22",
+   "name": "She-Hulk",
+   "name_url": "https://marvelsnapzone.com/cards/she-hulk/",
+   "ability": "Costs 1 less for each unspent Energy last turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/she-hulk/",
+   "cost": "6",
+   "power": "10"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shocker.webp?v=22",
+   "name": "Shocker",
+   "name_url": "https://marvelsnapzone.com/cards/shocker/",
+   "ability": "I'm gonna blast you!",
+   "ability_url": "https://marvelsnapzone.com/cards/shocker/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuri.webp?v=22",
+   "name": "Shuri",
+   "name_url": "https://marvelsnapzone.com/cards/shuri/",
+   "ability": "On Reveal: Double the Power of the next card you play.",
+   "ability_url": "https://marvelsnapzone.com/cards/shuri/",
+   "cost": "4",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silk.webp?v=22",
+   "name": "Silk",
+   "name_url": "https://marvelsnapzone.com/cards/silk/",
+   "ability": "When anyone plays a card here, move this to another location.",
+   "ability_url": "https://marvelsnapzone.com/cards/silk/",
+   "cost": "2",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-sable.webp?v=22",
+   "name": "Silver Sable",
+   "name_url": "https://marvelsnapzone.com/cards/silver-sable/",
+   "ability": "You can only play this at a location where you have 6+ total Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/silver-sable/",
+   "cost": "2",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-samurai.webp?v=22",
+   "name": "Silver Samurai",
+   "name_url": "https://marvelsnapzone.com/cards/silver-samurai/",
+   "ability": "When this is discarded from your hand, draw a card.",
+   "ability_url": "https://marvelsnapzone.com/cards/silver-samurai/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=22",
+   "name": "Silver Surfer",
+   "name_url": "https://marvelsnapzone.com/cards/silver-surfer/",
+   "ability": "On Reveal: Give your other 3-Cost cards +3 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/silver-surfer/",
+   "cost": "3",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard.webp?v=22",
+   "name": "Snowguard",
+   "name_url": "https://marvelsnapzone.com/cards/snowguard/",
+   "ability": "If you haven't played this by turn 3, transform into a random spirit animal.",
+   "ability_url": "https://marvelsnapzone.com/cards/snowguard/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=22",
+   "name": "Spectrum",
+   "name_url": "https://marvelsnapzone.com/cards/spectrum/",
+   "ability": "On Reveal: Give your Ongoing cards +2 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/spectrum/",
+   "cost": "6",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=22",
+   "name": "Spider-Man",
+   "name_url": "https://marvelsnapzone.com/cards/spider-man/",
+   "ability": "On Reveal: Your opponent can’t play cards at this location next turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/spider-man/",
+   "cost": "4",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-woman.webp?v=22",
+   "name": "Spider-Woman",
+   "name_url": "https://marvelsnapzone.com/cards/spider-woman/",
+   "ability": "On Reveal: Afflict all enemy cards here with -1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/spider-woman/",
+   "cost": "5",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=22",
+   "name": "Squirrel Girl",
+   "name_url": "https://marvelsnapzone.com/cards/squirrel-girl/",
+   "ability": "On Reveal: Add a 1-Power Squirrel to each other location.",
+   "ability_url": "https://marvelsnapzone.com/cards/squirrel-girl/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/star-lord.webp?v=22",
+   "name": "Star-Lord",
+   "name_url": "https://marvelsnapzone.com/cards/star-lord/",
+   "ability": "On Reveal: If your opponent played a card here this turn, +3 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/star-lord/",
+   "cost": "2",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stature.webp?v=22",
+   "name": "Stature",
+   "name_url": "https://marvelsnapzone.com/cards/stature/",
+   "ability": "Costs 1 if your opponent discarded a card from their hand this game.",
+   "ability_url": "https://marvelsnapzone.com/cards/stature/",
+   "cost": "5",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm.webp?v=22",
+   "name": "Storm",
+   "name_url": "https://marvelsnapzone.com/cards/storm/",
+   "ability": "On Reveal: Flood this location. Next turn is the last turn cards can be played here.",
+   "ability_url": "https://marvelsnapzone.com/cards/storm/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/strong-guy.webp?v=22",
+   "name": "Strong Guy",
+   "name_url": "https://marvelsnapzone.com/cards/strong-guy/",
+   "ability": "Ongoing: If your hand is empty, +6 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/strong-guy/",
+   "cost": "4",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stryfe.webp?v=22",
+   "name": "Stryfe",
+   "name_url": "https://marvelsnapzone.com/cards/stryfe/",
+   "ability": "If your opponent has 12+ Power here at the end of any turn, destroy this.",
+   "ability_url": "https://marvelsnapzone.com/cards/stryfe/",
+   "cost": "3",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sunspot.webp?v=22",
+   "name": "Sunspot",
+   "name_url": "https://marvelsnapzone.com/cards/sunspot/",
+   "ability": "At the end of each turn, gain +1 Power for each unspent Energy.",
+   "ability_url": "https://marvelsnapzone.com/cards/sunspot/",
+   "cost": "1",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/super-skrull.webp?v=22",
+   "name": "Super-Skrull",
+   "name_url": "https://marvelsnapzone.com/cards/super-skrull/",
+   "ability": "Ongoing: Has the Ongoing effects of all enemy cards.",
+   "ability_url": "https://marvelsnapzone.com/cards/super-skrull/",
+   "cost": "4",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/surtur.webp?v=22",
+   "name": "Surtur",
+   "name_url": "https://marvelsnapzone.com/cards/surtur/",
+   "ability": "If you move the Human Torch to this location, +10 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/surtur/",
+   "cost": "5",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/swarm.webp?v=22",
+   "name": "Swarm",
+   "name_url": "https://marvelsnapzone.com/cards/swarm/",
+   "ability": "When this is discarded from your hand, add two copies that Cost 0 to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/swarm/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sword-master.webp?v=22",
+   "name": "Sword Master",
+   "name_url": "https://marvelsnapzone.com/cards/sword-master/",
+   "ability": "On Reveal: Discard a card from your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/sword-master/",
+   "cost": "3",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=22",
+   "name": "Taskmaster",
+   "name_url": "https://marvelsnapzone.com/cards/taskmaster/",
+   "ability": "On Reveal: Set this card's Power equal to the Power of the last card you played.",
+   "ability_url": "https://marvelsnapzone.com/cards/taskmaster/",
+   "cost": "5",
+   "power": "0"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos.webp?v=22",
+   "name": "Thanos",
+   "name_url": "https://marvelsnapzone.com/cards/thanos/",
+   "ability": "At the start of the game, shuffle the six Infinity Stones into your deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/thanos/",
+   "cost": "6",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-collector.webp?v=22",
+   "name": "The Collector",
+   "name_url": "https://marvelsnapzone.com/cards/the-collector/",
+   "ability": "When a card enters your hand from anywhere (except your deck), +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/the-collector/",
+   "cost": "2",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=22",
+   "name": "The Hood",
+   "name_url": "https://marvelsnapzone.com/cards/the-hood/",
+   "ability": "On Reveal: Add a Demon to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/the-hood/",
+   "cost": "1",
+   "power": "-2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-infinaut.webp?v=22",
+   "name": "The Infinaut",
+   "name_url": "https://marvelsnapzone.com/cards/the-infinaut/",
+   "ability": "If you played a card last turn, you can't play this.",
+   "ability_url": "https://marvelsnapzone.com/cards/the-infinaut/",
+   "cost": "6",
+   "power": "20"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-living-tribunal.webp?v=22",
+   "name": "The Living Tribunal",
+   "name_url": "https://marvelsnapzone.com/cards/the-living-tribunal/",
+   "ability": "At the end of the game, split your total Power evenly among all Locations.",
+   "ability_url": "https://marvelsnapzone.com/cards/the-living-tribunal/",
+   "cost": "6",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-phoenix-force.webp?v=22",
+   "name": "The Phoenix Force",
+   "name_url": "https://marvelsnapzone.com/cards/the-phoenix-force/",
+   "ability": "On Reveal: Revive one of your destroyed cards with +5 Power. If it's Jean Grey, +10 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/the-phoenix-force/",
+   "cost": "6",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-thing.webp?v=22",
+   "name": "The Thing",
+   "name_url": "https://marvelsnapzone.com/cards/the-thing/",
+   "ability": "It's clobberin' time!",
+   "ability_url": "https://marvelsnapzone.com/cards/the-thing/",
+   "cost": "4",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor.webp?v=22",
+   "name": "Thor",
+   "name_url": "https://marvelsnapzone.com/cards/thor/",
+   "ability": "On Reveal: Shuffle Mjolnir into your deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/thor/",
+   "cost": "3",
+   "power": "4"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titania.webp?v=22",
+   "name": "Titania",
+   "name_url": "https://marvelsnapzone.com/cards/titania/",
+   "ability": "When ANY card is played at this location, this card switches sides.",
+   "ability_url": "https://marvelsnapzone.com/cards/titania/",
+   "cost": "1",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/typhoid-mary.webp?v=22",
+   "name": "Typhoid Mary",
+   "name_url": "https://marvelsnapzone.com/cards/typhoid-mary/",
+   "ability": "Ongoing: Your other cards have -1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/typhoid-mary/",
+   "cost": "4",
+   "power": "10"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/uatu-the-watcher.webp?v=22",
+   "name": "Uatu the Watcher",
+   "name_url": "https://marvelsnapzone.com/cards/uatu-the-watcher/",
+   "ability": "Once this is in your hand, you can see the unrevealed locations.",
+   "ability_url": "https://marvelsnapzone.com/cards/uatu-the-watcher/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron.webp?v=22",
+   "name": "Ultron",
+   "name_url": "https://marvelsnapzone.com/cards/ultron/",
+   "ability": "On Reveal: Create four 1-Power Drones at each other location.",
+   "ability_url": "https://marvelsnapzone.com/cards/ultron/",
+   "cost": "6",
+   "power": "8"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/uncle-ben.webp?v=22",
+   "name": "Uncle Ben",
+   "name_url": "https://marvelsnapzone.com/cards/uncle-ben/",
+   "ability": "When this card is destroyed, add Spider-Man to your hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/uncle-ben/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valkyrie.webp?v=22",
+   "name": "Valkyrie",
+   "name_url": "https://marvelsnapzone.com/cards/valkyrie/",
+   "ability": "On Reveal: Set ALL cards at this location to 3 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/valkyrie/",
+   "cost": "5",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venom.webp?v=22",
+   "name": "Venom",
+   "name_url": "https://marvelsnapzone.com/cards/venom/",
+   "ability": "On Reveal: Destroy your other cards at this location. Add their Power to this card.",
+   "ability_url": "https://marvelsnapzone.com/cards/venom/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viper.webp?v=22",
+   "name": "Viper",
+   "name_url": "https://marvelsnapzone.com/cards/viper/",
+   "ability": "On Reveal: Your opponent gains control of one of your other cards at this location.",
+   "ability_url": "https://marvelsnapzone.com/cards/viper/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vision.webp?v=22",
+   "name": "Vision",
+   "name_url": "https://marvelsnapzone.com/cards/vision/",
+   "ability": "You can move this each turn.",
+   "ability_url": "https://marvelsnapzone.com/cards/vision/",
+   "cost": "5",
+   "power": "7"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viv-vision.webp?v=22",
+   "name": "Viv Vision",
+   "name_url": "https://marvelsnapzone.com/cards/viv-vision/",
+   "ability": "When you move a card to a location, move this card there as well.",
+   "ability_url": "https://marvelsnapzone.com/cards/viv-vision/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vulture.webp?v=22",
+   "name": "Vulture",
+   "name_url": "https://marvelsnapzone.com/cards/vulture/",
+   "ability": "When this card moves, +5 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/vulture/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/war-machine.webp?v=22",
+   "name": "War Machine",
+   "name_url": "https://marvelsnapzone.com/cards/war-machine/",
+   "ability": "Ongoing: Your 1-Cost cards have +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/war-machine/",
+   "cost": "4",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warpath.webp?v=22",
+   "name": "Warpath",
+   "name_url": "https://marvelsnapzone.com/cards/warpath/",
+   "ability": "Ongoing: If any of your locations are empty, +4 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/warpath/",
+   "cost": "4",
+   "power": "5"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=22",
+   "name": "Wasp",
+   "name_url": "https://marvelsnapzone.com/cards/wasp/",
+   "ability": "My secret power is that I get things done.",
+   "ability_url": "https://marvelsnapzone.com/cards/wasp/",
+   "cost": "0",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wave.webp?v=22",
+   "name": "Wave",
+   "name_url": "https://marvelsnapzone.com/cards/wave/",
+   "ability": "On Reveal: Next turn, cards in both players' hands cost 4.",
+   "ability_url": "https://marvelsnapzone.com/cards/wave/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen.webp?v=22",
+   "name": "White Queen",
+   "name_url": "https://marvelsnapzone.com/cards/white-queen/",
+   "ability": "On Reveal: Draw a copy of the highest Cost card in your opponent's hand.",
+   "ability_url": "https://marvelsnapzone.com/cards/white-queen/",
+   "cost": "4",
+   "power": "6"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-tiger.webp?v=22",
+   "name": "White Tiger",
+   "name_url": "https://marvelsnapzone.com/cards/white-tiger/",
+   "ability": "On Reveal: Add a 7-Power Tiger to another location.",
+   "ability_url": "https://marvelsnapzone.com/cards/white-tiger/",
+   "cost": "5",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/witchfire.webp?v=22",
+   "name": "Witchfire",
+   "name_url": "https://marvelsnapzone.com/cards/witchfire/",
+   "ability": "On Reveal: Your opponent draws a card, increase its cost by 1.",
+   "ability_url": "https://marvelsnapzone.com/cards/witchfire/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolfsbane.webp?v=22",
+   "name": "Wolfsbane",
+   "name_url": "https://marvelsnapzone.com/cards/wolfsbane/",
+   "ability": "On Reveal: +2 Power for each other card you have here.",
+   "ability_url": "https://marvelsnapzone.com/cards/wolfsbane/",
+   "cost": "3",
+   "power": "1"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolverine.webp?v=22",
+   "name": "Wolverine",
+   "name_url": "https://marvelsnapzone.com/cards/wolverine/",
+   "ability": "When this is discarded or destroyed, play it at a random location.",
+   "ability_url": "https://marvelsnapzone.com/cards/wolverine/",
+   "cost": "2",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wong.webp?v=22",
+   "name": "Wong",
+   "name_url": "https://marvelsnapzone.com/cards/wong/",
+   "ability": "Ongoing: Your On Reveal abilities at this location happen twice.",
+   "ability_url": "https://marvelsnapzone.com/cards/wong/",
+   "cost": "4",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/x-23.webp?v=22",
+   "name": "X-23",
+   "name_url": "https://marvelsnapzone.com/cards/x-23/",
+   "ability": "When this is discarded from your hand, put it back. It costs 0.",
+   "ability_url": "https://marvelsnapzone.com/cards/x-23/",
+   "cost": "3",
+   "power": "3"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yellowjacket.webp?v=22",
+   "name": "Yellowjacket",
+   "name_url": "https://marvelsnapzone.com/cards/yellowjacket/",
+   "ability": "On Reveal: Afflict your other cards at this location with -1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/yellowjacket/",
+   "cost": "0",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yo-yo.webp?v=22",
+   "name": "Yo-Yo",
+   "name_url": "https://marvelsnapzone.com/cards/yo-yo/",
+   "ability": "When this card moves, move it back with +1 Power.",
+   "ability_url": "https://marvelsnapzone.com/cards/yo-yo/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yondu.webp?v=22",
+   "name": "Yondu",
+   "name_url": "https://marvelsnapzone.com/cards/yondu/",
+   "ability": "On Reveal: Remove the top card of your opponent's deck.",
+   "ability_url": "https://marvelsnapzone.com/cards/yondu/",
+   "cost": "1",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zabu.webp?v=22",
+   "name": "Zabu",
+   "name_url": "https://marvelsnapzone.com/cards/zabu/",
+   "ability": "Ongoing: Your 4-Cost cards cost 2 less. (minimum 1)",
+   "ability_url": "https://marvelsnapzone.com/cards/zabu/",
+   "cost": "3",
+   "power": "2"
+  },
+  {
+   "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zero.webp?v=22",
+   "name": "Zero",
+   "name_url": "https://marvelsnapzone.com/cards/zero/",
+   "ability": "On Reveal: Remove the abilities on the next card you play.",
+   "ability_url": "https://marvelsnapzone.com/cards/zero/",
+   "cost": "1",
+   "power": "3"
+  }
+ ]
+}
