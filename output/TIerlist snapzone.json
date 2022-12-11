@@ -1,0 +1,45 @@
+{
+ "tiers": [
+  {
+   "deck_name": [
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "card_name": "Bast",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/adam-warlock/",
+       "card_name": "Adam Warlock",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/forge/",
+       "card_name": "Forge",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mojo/",
+       "card_name": "Mojo",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/brood/",
+       "card_name": "Brood",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/brood.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+       "card_name": "Mister Fantastic",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mystique/"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
