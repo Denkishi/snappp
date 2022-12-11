@@ -1,0 +1,3053 @@
+{
+ "tiers": [
+  {
+   "tier": "Tier 1",
+   "deck_name": [
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "card_name": "Bast",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/adam-warlock/",
+       "card_name": "Adam Warlock",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/forge/",
+       "card_name": "Forge",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mojo/",
+       "card_name": "Mojo",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/brood/",
+       "card_name": "Brood",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/brood.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+       "card_name": "Mister Fantastic",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mystique/",
+       "card_name": "Mystique",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/rogue/",
+       "card_name": "Rogue",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rogue.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/silver-surfer/",
+       "card_name": "Silver Surfer",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/wolfsbane/",
+       "card_name": "Wolfsbane",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolfsbane.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-negative/",
+       "card_name": "Mister Negative",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-negative.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/iron-man/",
+       "card_name": "Iron Man",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=23"
+      }
+     ],
+     "name": "Negative Surfer",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 1-14"
+      },
+      {
+       "pool_med": "1x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "1x Season Pass"
+      },
+      {
+       "pool_med": "1x Starter Card"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "0.8",
+     "code": "eyJOYW1lIjoiTmVnYXRpdmUgU3VyZmVyIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IkJhc3QifSx7IkNhcmREZWZJZCI6IkFkYW1XYXJsb2NrIn0seyJDYXJkRGVmSWQiOiJGb3JnZSJ9LHsiQ2FyZERlZklkIjoiTW9qbyJ9LHsiQ2FyZERlZklkIjoiQnJvb2QifSx7IkNhcmREZWZJZCI6Ik1yRmFudGFzdGljIn0seyJDYXJkRGVmSWQiOiJNeXN0aXF1ZSJ9LHsiQ2FyZERlZklkIjoiUm9ndWUifSx7IkNhcmREZWZJZCI6IlNpbHZlclN1cmZlciJ9LHsiQ2FyZERlZklkIjoiV29sZnNiYW5lIn0seyJDYXJkRGVmSWQiOiJNck5lZ2F0aXZlIn0seyJDYXJkRGVmSWQiOiJJcm9uTWFuIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/nova/",
+       "card_name": "Nova",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/squirrel-girl/",
+       "card_name": "Squirrel Girl",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/yondu/",
+       "card_name": "Yondu",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yondu.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bucky-barnes/",
+       "card_name": "Bucky Barnes",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/carnage/",
+       "card_name": "Carnage",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/deathlok/",
+       "card_name": "Deathlok",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deathlok.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "card_name": "Killmonger",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/wave/",
+       "card_name": "Wave",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wave.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/aero/",
+       "card_name": "Aero",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aero.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/leader/",
+       "card_name": "Leader",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/leader.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/she-hulk/",
+       "card_name": "She-Hulk",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/she-hulk.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/death/",
+       "card_name": "Death",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death.webp?v=23"
+      }
+     ],
+     "name": "Baero",
+     "pool": [
+      {
+       "pool_med": "5x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "4x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 4 Rare - Collection Level 486+ (Pool 4)"
+      }
+     ],
+     "cost_med": "3.5",
+     "power_med": "4.4",
+     "code": "eyJOYW1lIjoiQmFlcm8iLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiTm92YSJ9LHsiQ2FyZERlZklkIjoiU3F1aXJyZWxHaXJsIn0seyJDYXJkRGVmSWQiOiJZb25kdSJ9LHsiQ2FyZERlZklkIjoiQnVja3lCYXJuZXMifSx7IkNhcmREZWZJZCI6IkNhcm5hZ2UifSx7IkNhcmREZWZJZCI6IkRlYXRobG9rIn0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJXYXZlIn0seyJDYXJkRGVmSWQiOiJBZXJvIn0seyJDYXJkRGVmSWQiOiJMZWFkZXIifSx7IkNhcmREZWZJZCI6IlNoZUh1bGsifSx7IkNhcmREZWZJZCI6IkRlYXRoIn1dfQ=="
+    },
+    {
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ant-man/",
+       "card_name": "Ant Man",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/adam-warlock/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "card_name": "Angela",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-sinister/",
+       "card_name": "Mister Sinister",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-sinister.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mojo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mysterio/",
+       "card_name": "Mysterio",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bishop/",
+       "card_name": "Bishop",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mystique/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/blue-marvel/",
+       "card_name": "Blue Marvel",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/iron-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sera/",
+       "card_name": "Sera",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sera.webp?v=23"
+      }
+     ],
+     "name": "Bast Seracle",
+     "pool": [
+      {
+       "pool_med": "3x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "5x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "2x Recruit Season"
+      },
+      {
+       "pool_med": "1x Starter Card"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "1.5",
+     "code": "eyJOYW1lIjoiQmFzdCBTZXJhY2xlIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IkJhc3QifSx7IkNhcmREZWZJZCI6IkFudE1hbiJ9LHsiQ2FyZERlZklkIjoiQWRhbVdhcmxvY2sifSx7IkNhcmREZWZJZCI6IkFuZ2VsYSJ9LHsiQ2FyZERlZklkIjoiTXJTaW5pc3RlciJ9LHsiQ2FyZERlZklkIjoiTW9qbyJ9LHsiQ2FyZERlZklkIjoiTXlzdGVyaW8ifSx7IkNhcmREZWZJZCI6IkJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiTXlzdGlxdWUifSx7IkNhcmREZWZJZCI6IkJsdWVNYXJ2ZWwifSx7IkNhcmREZWZJZCI6Iklyb25NYW4ifSx7IkNhcmREZWZJZCI6IlNlcmEifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/nova/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/forge/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/goose/",
+       "card_name": "Goose",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goose.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/brood/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/brood.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cosmo/",
+       "card_name": "Cosmo",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/juggernaut/",
+       "card_name": "Juggernaut",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/juggernaut.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/maximus/",
+       "card_name": "Maximus",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maximus.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/polaris/",
+       "card_name": "Polaris",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/silver-surfer/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/storm/",
+       "card_name": "Storm",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sera/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sera.webp?v=23"
+      }
+     ],
+     "name": "Seracle Surfer",
+     "pool": [
+      {
+       "pool_med": "3x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Season Pass"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "2.8",
+     "code": "eyJOYW1lIjoiU2VyYWNsZSBTdXJmZXIiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiTm92YSJ9LHsiQ2FyZERlZklkIjoiRm9yZ2UifSx7IkNhcmREZWZJZCI6Ikdvb3NlIn0seyJDYXJkRGVmSWQiOiJCcm9vZCJ9LHsiQ2FyZERlZklkIjoiQ29zbW8ifSx7IkNhcmREZWZJZCI6Ikp1Z2dlcm5hdXQifSx7IkNhcmREZWZJZCI6IktpbGxtb25nZXIifSx7IkNhcmREZWZJZCI6Ik1heGltdXMifSx7IkNhcmREZWZJZCI6IlBvbGFyaXMifSx7IkNhcmREZWZJZCI6IlNpbHZlclN1cmZlciJ9LHsiQ2FyZERlZklkIjoiU3Rvcm0ifSx7IkNhcmREZWZJZCI6IlNlcmEifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/the-hood/",
+       "card_name": "The Hood",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/daredevil/",
+       "card_name": "Daredevil",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/viper/",
+       "card_name": "Viper",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viper.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/electro/",
+       "card_name": "Electro",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/electro.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/wave/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wave.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/spider-man/",
+       "card_name": "Spider-Man",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/hobgoblin/",
+       "card_name": "Hobgoblin",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hobgoblin.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/professor-x/",
+       "card_name": "Professor X",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/destroyer/",
+       "card_name": "Destroyer",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/destroyer.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/galactus/",
+       "card_name": "Galactus",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galactus.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/leader/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/leader.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/death/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death.webp?v=23"
+      }
+     ],
+     "name": "Galactro / Electrus",
+     "pool": [
+      {
+       "pool_med": "1x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "1x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "9x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      }
+     ],
+     "cost_med": "4.3",
+     "power_med": "3.3",
+     "code": "eyJOYW1lIjoiR2FsYWN0cm8gXC8gRWxlY3RydXMiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiRGFyZWRldmlsIn0seyJDYXJkRGVmSWQiOiJWaXBlciJ9LHsiQ2FyZERlZklkIjoiRWxlY3RybyJ9LHsiQ2FyZERlZklkIjoiV2F2ZSJ9LHsiQ2FyZERlZklkIjoiU3BpZGVyTWFuIn0seyJDYXJkRGVmSWQiOiJIb2Jnb2JsaW4ifSx7IkNhcmREZWZJZCI6IlByb2Zlc3NvclgifSx7IkNhcmREZWZJZCI6IkRlc3Ryb3llciJ9LHsiQ2FyZERlZklkIjoiR2FsYWN0dXMifSx7IkNhcmREZWZJZCI6IkxlYWRlciJ9LHsiQ2FyZERlZklkIjoiRGVhdGgifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/wasp/",
+       "card_name": "Wasp",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/misty-knight/",
+       "card_name": "Misty Knight",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misty-knight.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-sinister/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-sinister.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/shocker/",
+       "card_name": "Shocker",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shocker.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/debrii/",
+       "card_name": "Debrii",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/debrii.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mystique/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/patriot/",
+       "card_name": "Patriot",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/patriot.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/wave/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wave.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/blue-marvel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/magik/",
+       "card_name": "Magik",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/onslaught/",
+       "card_name": "Onslaught",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaught.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ultron/",
+       "card_name": "Ultron",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron.webp?v=23"
+      }
+     ],
+     "name": "Patriot",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "7x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Recruit Season"
+      },
+      {
+       "pool_med": "2x Starter Card"
+      }
+     ],
+     "cost_med": "3.3",
+     "power_med": "3",
+     "code": "eyJOYW1lIjoiUGF0cmlvdCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJXYXNwIn0seyJDYXJkRGVmSWQiOiJNaXN0eUtuaWdodCJ9LHsiQ2FyZERlZklkIjoiTXJTaW5pc3RlciJ9LHsiQ2FyZERlZklkIjoiU2hvY2tlciJ9LHsiQ2FyZERlZklkIjoiRGVicmlpIn0seyJDYXJkRGVmSWQiOiJNeXN0aXF1ZSJ9LHsiQ2FyZERlZklkIjoiUGF0cmlvdCJ9LHsiQ2FyZERlZklkIjoiV2F2ZSJ9LHsiQ2FyZERlZklkIjoiQmx1ZU1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiTWFnaWsifSx7IkNhcmREZWZJZCI6Ik9uc2xhdWdodCJ9LHsiQ2FyZERlZklkIjoiVWx0cm9uIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/sunspot/",
+       "card_name": "Sunspot",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sunspot.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/titania/",
+       "card_name": "Titania",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titania.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/zero/",
+       "card_name": "Zero",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zero.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/lizard/",
+       "card_name": "Lizard",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lizard.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/maximus/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maximus.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/venom/",
+       "card_name": "Venom",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venom.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/enchantress/",
+       "card_name": "Enchantress",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/shuri/",
+       "card_name": "Shuri",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuri.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/typhoid-mary/",
+       "card_name": "Typhoid Mary",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/typhoid-mary.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/red-skull/",
+       "card_name": "Red Skull",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-skull.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/taskmaster/",
+       "card_name": "Taskmaster",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/she-hulk/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/she-hulk.webp?v=23"
+      }
+     ],
+     "name": "Zero",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "1x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 4 Rare - Collection Level 486+ (Pool 4)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      }
+     ],
+     "cost_med": "3.3",
+     "power_med": "5.3",
+     "code": "eyJOYW1lIjoiWmVybyIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJTdW5zcG90In0seyJDYXJkRGVmSWQiOiJUaXRhbmlhIn0seyJDYXJkRGVmSWQiOiJaZXJvIn0seyJDYXJkRGVmSWQiOiJMaXphcmQifSx7IkNhcmREZWZJZCI6Ik1heGltdXMifSx7IkNhcmREZWZJZCI6IlZlbm9tIn0seyJDYXJkRGVmSWQiOiJFbmNoYW50cmVzcyJ9LHsiQ2FyZERlZklkIjoiU2h1cmkifSx7IkNhcmREZWZJZCI6IlR5cGhvaWRNYXJ5In0seyJDYXJkRGVmSWQiOiJSZWRTa3VsbCJ9LHsiQ2FyZERlZklkIjoiVGFza21hc3RlciJ9LHsiQ2FyZERlZklkIjoiU2hlSHVsayJ9XX0="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/deadpool/",
+       "card_name": "Deadpool",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deadpool.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/nova/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bucky-barnes/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/carnage/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/forge/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/deathlok/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deathlok.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/venom/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venom.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/shuri/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuri.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/taskmaster/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/arnim-zola/",
+       "card_name": "Arnim Zola",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arnim-zola.webp?v=23"
+      }
+     ],
+     "name": "Deadpool Bast",
+     "pool": [
+      {
+       "pool_med": "4x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "4x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "1.6",
+     "code": "eyJOYW1lIjoiRGVhZHBvb2wgQmFzdCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJEZWFkcG9vbCJ9LHsiQ2FyZERlZklkIjoiTm92YSJ9LHsiQ2FyZERlZklkIjoiQmFzdCJ9LHsiQ2FyZERlZklkIjoiQnVja3lCYXJuZXMifSx7IkNhcmREZWZJZCI6IkNhcm5hZ2UifSx7IkNhcmREZWZJZCI6IkZvcmdlIn0seyJDYXJkRGVmSWQiOiJEZWF0aGxvayJ9LHsiQ2FyZERlZklkIjoiS2lsbG1vbmdlciJ9LHsiQ2FyZERlZklkIjoiVmVub20ifSx7IkNhcmREZWZJZCI6IlNodXJpIn0seyJDYXJkRGVmSWQiOiJUYXNrbWFzdGVyIn0seyJDYXJkRGVmSWQiOiJBcm5pbVpvbGEifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/ant-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "card_name": "Armor",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/goose/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goose.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mojo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/captain-america/",
+       "card_name": "Captain America",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cosmo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sandman/",
+       "card_name": "Sandman",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sandman.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/warpath/",
+       "card_name": "Warpath",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warpath.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/klaw/",
+       "card_name": "Klaw",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klaw.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/destroyer/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/destroyer.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/spectrum/",
+       "card_name": "Spectrum",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=23"
+      }
+     ],
+     "name": "Ongoing Destroyer",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 1-14"
+      },
+      {
+       "pool_med": "4x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "3x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Recruit Season"
+      }
+     ],
+     "cost_med": "3.4",
+     "power_med": "3.8",
+     "code": "eyJOYW1lIjoiT25nb2luZyBEZXN0cm95ZXIiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQW50TWFuIn0seyJDYXJkRGVmSWQiOiJBcm1vciJ9LHsiQ2FyZERlZklkIjoiR29vc2UifSx7IkNhcmREZWZJZCI6Ik1vam8ifSx7IkNhcmREZWZJZCI6IkNhcHRhaW5BbWVyaWNhIn0seyJDYXJkRGVmSWQiOiJDb3NtbyJ9LHsiQ2FyZERlZklkIjoiTXJGYW50YXN0aWMifSx7IkNhcmREZWZJZCI6IlNhbmRtYW4ifSx7IkNhcmREZWZJZCI6IldhcnBhdGgifSx7IkNhcmREZWZJZCI6IktsYXcifSx7IkNhcmREZWZJZCI6IkRlc3Ryb3llciJ9LHsiQ2FyZERlZklkIjoiU3BlY3RydW0ifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/nova/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/quinjet/",
+       "card_name": "Quinjet",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/the-hood/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/beast/",
+       "card_name": "Beast",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/carnage/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/falcon/",
+       "card_name": "Falcon",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/falcon.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bishop/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/blue-marvel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/devil-dinosaur/",
+       "card_name": "Devil Dinosaur",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/devil-dinosaur.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/thanos/",
+       "card_name": "Thanos",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos.webp?v=23"
+      }
+     ],
+     "name": "Bounce Thanos",
+     "pool": [
+      {
+       "pool_med": "5x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "4x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "1x Recruit Season"
+      }
+     ],
+     "cost_med": "2.6",
+     "power_med": "2.1",
+     "code": "eyJOYW1lIjoiQm91bmNlIFRoYW5vcyIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJOb3ZhIn0seyJDYXJkRGVmSWQiOiJRdWluamV0In0seyJDYXJkRGVmSWQiOiJIb29kIn0seyJDYXJkRGVmSWQiOiJCYXN0In0seyJDYXJkRGVmSWQiOiJBbmdlbGEifSx7IkNhcmREZWZJZCI6IkJlYXN0In0seyJDYXJkRGVmSWQiOiJDYXJuYWdlIn0seyJDYXJkRGVmSWQiOiJGYWxjb24ifSx7IkNhcmREZWZJZCI6IkJpc2hvcCJ9LHsiQ2FyZERlZklkIjoiQmx1ZU1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiRGV2aWxEaW5vc2F1ciJ9LHsiQ2FyZERlZklkIjoiVGhhbm9zIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/colleen-wing/",
+       "card_name": "Colleen Wing",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colleen-wing.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/morbius/",
+       "card_name": "Morbius",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morbius.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/swarm/",
+       "card_name": "Swarm",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/swarm.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/gambit/",
+       "card_name": "Gambit",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gambit.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/lady-sif/",
+       "card_name": "Lady Sif",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-sif.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/lockjaw/",
+       "card_name": "Lockjaw",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lockjaw.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/moon-knight/",
+       "card_name": "Moon Knight",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-knight.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/silver-surfer/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sword-master/",
+       "card_name": "Sword Master",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sword-master.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/dracula/",
+       "card_name": "Dracula",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dracula.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/wong/",
+       "card_name": "Wong",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wong.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/apocalypse/",
+       "card_name": "Apocalypse",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/apocalypse.webp?v=23"
+      }
+     ],
+     "name": "Discard Lockjaw",
+     "pool": [
+      {
+       "pool_med": "3x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Season Pass"
+      }
+     ],
+     "cost_med": "3.2",
+     "power_med": "2.8",
+     "code": "eyJOYW1lIjoiRGlzY2FyZCBMb2NramF3IiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IkNvbGxlZW5XaW5nIn0seyJDYXJkRGVmSWQiOiJNb3JiaXVzIn0seyJDYXJkRGVmSWQiOiJTd2FybSJ9LHsiQ2FyZERlZklkIjoiR2FtYml0In0seyJDYXJkRGVmSWQiOiJMYWR5U2lmIn0seyJDYXJkRGVmSWQiOiJMb2NramF3In0seyJDYXJkRGVmSWQiOiJNb29uS25pZ2h0In0seyJDYXJkRGVmSWQiOiJTaWx2ZXJTdXJmZXIifSx7IkNhcmREZWZJZCI6IlN3b3JkTWFzdGVyIn0seyJDYXJkRGVmSWQiOiJEcmFjdWxhIn0seyJDYXJkRGVmSWQiOiJXb25nIn0seyJDYXJkRGVmSWQiOiJBcG9jYWx5cHNlIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/iceman/",
+       "card_name": "Iceman",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/hazmat/",
+       "card_name": "Hazmat",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hazmat.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/luke-cage/",
+       "card_name": "Luke Cage",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/psylocke/",
+       "card_name": "Psylocke",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ironheart/",
+       "card_name": "Ironheart",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ironheart.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/storm/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/absorbing-man/",
+       "card_name": "Absorbing Man",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/absorbing-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/wong/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wong.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/black-panther/",
+       "card_name": "Black Panther",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-panther.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/white-tiger/",
+       "card_name": "White Tiger",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-tiger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/arnim-zola/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arnim-zola.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/odin/",
+       "card_name": "Odin",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/odin.webp?v=23"
+      }
+     ],
+     "name": "WongReveal",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 1-14"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "4x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 4 Rare - Collection Level 486+ (Pool 4)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "1x Recruit Season"
+      }
+     ],
+     "cost_med": "3.6",
+     "power_med": "2.1",
+     "code": "eyJOYW1lIjoiV29uZ1JldmVhbCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJJY2VtYW4ifSx7IkNhcmREZWZJZCI6Ikhhem1hdCJ9LHsiQ2FyZERlZklkIjoiTHVrZUNhZ2UifSx7IkNhcmREZWZJZCI6IlBzeWxvY2tlIn0seyJDYXJkRGVmSWQiOiJJcm9uaGVhcnQifSx7IkNhcmREZWZJZCI6IlN0b3JtIn0seyJDYXJkRGVmSWQiOiJBYnNvcmJpbmdNYW4ifSx7IkNhcmREZWZJZCI6IldvbmcifSx7IkNhcmREZWZJZCI6IkJsYWNrUGFudGhlciJ9LHsiQ2FyZERlZklkIjoiV2hpdGVUaWdlciJ9LHsiQ2FyZERlZklkIjoiQXJuaW1ab2xhIn0seyJDYXJkRGVmSWQiOiJPZGluIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/iceman/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/nightcrawler/",
+       "card_name": "Nightcrawler",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/squirrel-girl/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ant-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mojo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/debrii/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/debrii.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ka-zar/",
+       "card_name": "Ka-Zar",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ka-zar.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/blue-marvel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/valkyrie/",
+       "card_name": "Valkyrie",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valkyrie.webp?v=23"
+      }
+     ],
+     "name": "Ka-zoo",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 1-14"
+      },
+      {
+       "pool_med": "3x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "1x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "2x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "2x Recruit Season"
+      }
+     ],
+     "cost_med": "2.3",
+     "power_med": "2.1",
+     "code": "eyJOYW1lIjoiS2Etem9vIiwiQ2FyZHMiOlt7IkNhcmREZWZJZCI6IkljZW1hbiJ9LHsiQ2FyZERlZklkIjoiTmlnaHRjcmF3bGVyIn0seyJDYXJkRGVmSWQiOiJTcXVpcnJlbEdpcmwifSx7IkNhcmREZWZJZCI6IkJhc3QifSx7IkNhcmREZWZJZCI6IkFudE1hbiJ9LHsiQ2FyZERlZklkIjoiQW5nZWxhIn0seyJDYXJkRGVmSWQiOiJBcm1vciJ9LHsiQ2FyZERlZklkIjoiTW9qbyJ9LHsiQ2FyZERlZklkIjoiRGVicmlpIn0seyJDYXJkRGVmSWQiOiJLYVphciJ9LHsiQ2FyZERlZklkIjoiQmx1ZU1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiVmFsa3lyaWUifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/human-torch/",
+       "card_name": "Human Torch",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/human-torch.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/iron-fist/",
+       "card_name": "Iron Fist",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-fist.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cloak/",
+       "card_name": "Cloak",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cloak.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/dagger/",
+       "card_name": "Dagger",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dagger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/kraven/",
+       "card_name": "Kraven",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kraven.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/doctor-strange/",
+       "card_name": "Doctor Strange",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-strange.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/polaris/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/vulture/",
+       "card_name": "Vulture",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vulture.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/miles-morales/",
+       "card_name": "Miles Morales",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miles-morales.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/aero/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aero.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/heimdall/",
+       "card_name": "Heimdall",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/heimdall.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/magneto/",
+       "card_name": "Magneto",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto.webp?v=23"
+      }
+     ],
+     "name": "move",
+     "pool": [
+      {
+       "pool_med": "4x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      }
+     ],
+     "cost_med": "3.2",
+     "power_med": "4.6",
+     "code": "eyJOYW1lIjoibW92ZSIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJIdW1hblRvcmNoIn0seyJDYXJkRGVmSWQiOiJJcm9uRmlzdCJ9LHsiQ2FyZERlZklkIjoiQ2xvYWsifSx7IkNhcmREZWZJZCI6IkRhZ2dlciJ9LHsiQ2FyZERlZklkIjoiS3JhdmVuIn0seyJDYXJkRGVmSWQiOiJEb2N0b3JTdHJhbmdlIn0seyJDYXJkRGVmSWQiOiJQb2xhcmlzIn0seyJDYXJkRGVmSWQiOiJWdWx0dXJlIn0seyJDYXJkRGVmSWQiOiJNaWxlc01vcmFsZXMifSx7IkNhcmREZWZJZCI6IkFlcm8ifSx7IkNhcmREZWZJZCI6IkhlaW1kYWxsIn0seyJDYXJkRGVmSWQiOiJNYWduZXRvIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/wasp/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/yellowjacket/",
+       "card_name": "Yellowjacket",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yellowjacket.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/nightcrawler/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bast/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ant-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/adam-warlock/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/daredevil/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mojo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/spider-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/professor-x/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/valkyrie/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valkyrie.webp?v=23"
+      }
+     ],
+     "name": "Valkyrie Control",
+     "pool": [
+      {
+       "pool_med": "1x Collection Level 1-14"
+      },
+      {
+       "pool_med": "2x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "1x Recruit Season"
+      }
+     ],
+     "cost_med": "2.1",
+     "power_med": "1.7",
+     "code": "eyJOYW1lIjoiVmFsa3lyaWUgQ29udHJvbCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJXYXNwIn0seyJDYXJkRGVmSWQiOiJZZWxsb3dqYWNrZXQifSx7IkNhcmREZWZJZCI6Ik5pZ2h0Y3Jhd2xlciJ9LHsiQ2FyZERlZklkIjoiQmFzdCJ9LHsiQ2FyZERlZklkIjoiQW50TWFuIn0seyJDYXJkRGVmSWQiOiJBZGFtV2FybG9jayJ9LHsiQ2FyZERlZklkIjoiQW5nZWxhIn0seyJDYXJkRGVmSWQiOiJEYXJlZGV2aWwifSx7IkNhcmREZWZJZCI6Ik1vam8ifSx7IkNhcmREZWZJZCI6IlNwaWRlck1hbiJ9LHsiQ2FyZERlZklkIjoiUHJvZmVzc29yWCJ9LHsiQ2FyZERlZklkIjoiVmFsa3lyaWUifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/hawkeye/",
+       "card_name": "Hawkeye",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/scarlet-witch/",
+       "card_name": "Scarlet Witch",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-witch.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sentinel/",
+       "card_name": "Sentinel",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cerebro/",
+       "card_name": "Cerebro",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cerebro.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cosmo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mystique/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/absorbing-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/absorbing-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/spider-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/magik/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/valkyrie/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valkyrie.webp?v=23"
+      }
+     ],
+     "name": "C3r3bro",
+     "pool": [
+      {
+       "pool_med": "3x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "1x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "4x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 4 Rare - Collection Level 486+ (Pool 4)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      },
+      {
+       "pool_med": "2x Starter Card"
+      }
+     ],
+     "cost_med": "3.1",
+     "power_med": "2.3",
+     "code": "eyJOYW1lIjoiQzNyM2JybyIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJIYXdrZXllIn0seyJDYXJkRGVmSWQiOiJBcm1vciJ9LHsiQ2FyZERlZklkIjoiU2NhcmxldFdpdGNoIn0seyJDYXJkRGVmSWQiOiJTZW50aW5lbCJ9LHsiQ2FyZERlZklkIjoiQ2VyZWJybyJ9LHsiQ2FyZERlZklkIjoiQ29zbW8ifSx7IkNhcmREZWZJZCI6IktpbGxtb25nZXIifSx7IkNhcmREZWZJZCI6Ik15c3RpcXVlIn0seyJDYXJkRGVmSWQiOiJBYnNvcmJpbmdNYW4ifSx7IkNhcmREZWZJZCI6IlNwaWRlck1hbiJ9LHsiQ2FyZERlZklkIjoiTWFnaWsifSx7IkNhcmREZWZJZCI6IlZhbGt5cmllIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/quinjet/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sunspot/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sunspot.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/the-hood/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/titania/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titania.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/carnage/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/viper/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viper.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/juggernaut/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/juggernaut.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/maximus/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maximus.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/polaris/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/moon-girl/",
+       "card_name": "Moon Girl",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-girl.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/she-hulk/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/she-hulk.webp?v=23"
+      }
+     ],
+     "name": "Moongirl Shenanigans",
+     "pool": [
+      {
+       "pool_med": "3x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "1x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "6x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "2x Series 4 Rare - Collection Level 486+ (Pool 4)"
+      }
+     ],
+     "cost_med": "2.4",
+     "power_med": "3.6",
+     "code": "eyJOYW1lIjoiTW9vbmdpcmwgU2hlbmFuaWdhbnMiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiUXVpbmpldCJ9LHsiQ2FyZERlZklkIjoiU3Vuc3BvdCJ9LHsiQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiVGl0YW5pYSJ9LHsiQ2FyZERlZklkIjoiQXJtb3IifSx7IkNhcmREZWZJZCI6IkNhcm5hZ2UifSx7IkNhcmREZWZJZCI6IlZpcGVyIn0seyJDYXJkRGVmSWQiOiJKdWdnZXJuYXV0In0seyJDYXJkRGVmSWQiOiJNYXhpbXVzIn0seyJDYXJkRGVmSWQiOiJQb2xhcmlzIn0seyJDYXJkRGVmSWQiOiJNb29uR2lybCJ9LHsiQ2FyZERlZklkIjoiU2hlSHVsayJ9XX0="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/agent-13/",
+       "card_name": "Agent 13",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-13.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/quinjet/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cable/",
+       "card_name": "Cable",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cable.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sentinel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/the-collector/",
+       "card_name": "The Collector",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-collector.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/agent-coulson/",
+       "card_name": "Agent Coulson",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-coulson.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cosmo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/moon-girl/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-girl.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/shang-chi/",
+       "card_name": "Shang-Chi",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/white-queen/",
+       "card_name": "White Queen",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/devil-dinosaur/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/devil-dinosaur.webp?v=23"
+      }
+     ],
+     "name": "handsize",
+     "pool": [
+      {
+       "pool_med": "6x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "3x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "1x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 4 Rare - Collection Level 486+ (Pool 4)"
+      },
+      {
+       "pool_med": "1x Starter Card"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "2.8",
+     "code": "eyJOYW1lIjoiaGFuZHNpemUiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQWdlbnQxMyJ9LHsiQ2FyZERlZklkIjoiUXVpbmpldCJ9LHsiQ2FyZERlZklkIjoiQW5nZWxhIn0seyJDYXJkRGVmSWQiOiJDYWJsZSJ9LHsiQ2FyZERlZklkIjoiU2VudGluZWwifSx7IkNhcmREZWZJZCI6IlRoZUNvbGxlY3RvciJ9LHsiQ2FyZERlZklkIjoiQWdlbnRDb3Vsc29uIn0seyJDYXJkRGVmSWQiOiJDb3NtbyJ9LHsiQ2FyZERlZklkIjoiTW9vbkdpcmwifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn0seyJDYXJkRGVmSWQiOiJXaGl0ZVF1ZWVuIn0seyJDYXJkRGVmSWQiOiJEZXZpbERpbm9zYXVyIn1dfQ=="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/wasp/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/quinjet/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/lockjaw/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lockjaw.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/thor/",
+       "card_name": "Thor",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/captain-marvel/",
+       "card_name": "Captain Marvel",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-marvel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/jane-foster-mighty-thor/",
+       "card_name": "Jane Foster Mighty Thor",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-mighty-thor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/america-chavez/",
+       "card_name": "America Chavez",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/magneto/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/thanos/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/the-infinaut/",
+       "card_name": "The Infinaut",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-infinaut.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/death/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death.webp?v=23"
+      }
+     ],
+     "name": "Lockjaw Thanos",
+     "pool": [
+      {
+       "pool_med": "1x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "2x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "8x Collection Level 486+ (Pool 3)"
+      },
+      {
+       "pool_med": "1x Series 5 Ultra Rare - Collection Level 486+ (Pool 5)"
+      }
+     ],
+     "cost_med": "4.4",
+     "power_med": "7.3",
+     "code": "eyJOYW1lIjoiTG9ja2phdyBUaGFub3MiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiV2FzcCJ9LHsiQ2FyZERlZklkIjoiUXVpbmpldCJ9LHsiQ2FyZERlZklkIjoiS2lsbG1vbmdlciJ9LHsiQ2FyZERlZklkIjoiTG9ja2phdyJ9LHsiQ2FyZERlZklkIjoiVGhvciJ9LHsiQ2FyZERlZklkIjoiQ2FwdGFpbk1hcnZlbCJ9LHsiQ2FyZERlZklkIjoiSmFuZUZvc3RlciJ9LHsiQ2FyZERlZklkIjoiQW1lcmljYUNoYXZleiJ9LHsiQ2FyZERlZklkIjoiTWFnbmV0byJ9LHsiQ2FyZERlZklkIjoiVGhhbm9zIn0seyJDYXJkRGVmSWQiOiJJbmZpbmF1dCJ9LHsiQ2FyZERlZklkIjoiRGVhdGgifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/agent-13/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-13.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/nova/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/bucky-barnes/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/carnage/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sentinel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/deathlok/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deathlok.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/moon-girl/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-girl.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/shang-chi/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/white-queen/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/devil-dinosaur/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/devil-dinosaur.webp?v=23"
+      }
+     ],
+     "name": "Budget handsize destroy",
+     "pool": [
+      {
+       "pool_med": "7x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "4x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "1x Starter Card"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "2.8",
+     "code": "eyJOYW1lIjoiQnVkZ2V0IGhhbmRzaXplIGRlc3Ryb3kiLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiQWdlbnQxMyJ9LHsiQ2FyZERlZklkIjoiTm92YSJ9LHsiQ2FyZERlZklkIjoiQW5nZWxhIn0seyJDYXJkRGVmSWQiOiJCdWNreUJhcm5lcyJ9LHsiQ2FyZERlZklkIjoiQ2FybmFnZSJ9LHsiQ2FyZERlZklkIjoiU2VudGluZWwifSx7IkNhcmREZWZJZCI6IkRlYXRobG9rIn0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJNb29uR2lybCJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IldoaXRlUXVlZW4ifSx7IkNhcmREZWZJZCI6IkRldmlsRGlub3NhdXIifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/nightcrawler/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ant-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/colossus/",
+       "card_name": "Colossus",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colossus.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/lizard/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lizard.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/captain-america/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cosmo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/mister-fantastic/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/warpath/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warpath.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/klaw/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klaw.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/onslaught/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaught.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/spectrum/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=23"
+      }
+     ],
+     "name": "Ongoing",
+     "pool": [
+      {
+       "pool_med": "3x Collection Level 1-14"
+      },
+      {
+       "pool_med": "6x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "1x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "2x Recruit Season"
+      }
+     ],
+     "cost_med": "3.2",
+     "power_med": "3.6",
+     "code": "eyJOYW1lIjoiT25nb2luZyIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJOaWdodGNyYXdsZXIifSx7IkNhcmREZWZJZCI6IkFudE1hbiJ9LHsiQ2FyZERlZklkIjoiQXJtb3IifSx7IkNhcmREZWZJZCI6IkNvbG9zc3VzIn0seyJDYXJkRGVmSWQiOiJMaXphcmQifSx7IkNhcmREZWZJZCI6IkNhcHRhaW5BbWVyaWNhIn0seyJDYXJkRGVmSWQiOiJDb3NtbyJ9LHsiQ2FyZERlZklkIjoiTXJGYW50YXN0aWMifSx7IkNhcmREZWZJZCI6IldhcnBhdGgifSx7IkNhcmREZWZJZCI6IktsYXcifSx7IkNhcmREZWZJZCI6Ik9uc2xhdWdodCJ9LHsiQ2FyZERlZklkIjoiU3BlY3RydW0ifV19"
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/ebony-maw/",
+       "card_name": "Ebony Maw",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ebony-maw.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/iceman/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/nightcrawler/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/squirrel-girl/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ant-man/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/angela/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/ka-zar/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ka-zar.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sandman/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sandman.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/blue-marvel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/klaw/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klaw.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/onslaught/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaught.webp?v=23"
+      }
+     ],
+     "name": "Sandman Ka-zoo",
+     "pool": [
+      {
+       "pool_med": "2x Collection Level 1-14"
+      },
+      {
+       "pool_med": "5x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "3x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "2x Recruit Season"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "2.9",
+     "code": "eyJOYW1lIjoiU2FuZG1hbiBLYS16b28iLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiRWJvbnlNYXcifSx7IkNhcmREZWZJZCI6IkljZW1hbiJ9LHsiQ2FyZERlZklkIjoiTmlnaHRjcmF3bGVyIn0seyJDYXJkRGVmSWQiOiJTcXVpcnJlbEdpcmwifSx7IkNhcmREZWZJZCI6IkFudE1hbiJ9LHsiQ2FyZERlZklkIjoiQW5nZWxhIn0seyJDYXJkRGVmSWQiOiJBcm1vciJ9LHsiQ2FyZERlZklkIjoiS2FaYXIifSx7IkNhcmREZWZJZCI6IlNhbmRtYW4ifSx7IkNhcmREZWZJZCI6IkJsdWVNYXJ2ZWwifSx7IkNhcmREZWZJZCI6IktsYXcifSx7IkNhcmREZWZJZCI6Ik9uc2xhdWdodCJ9XX0="
+    },
+    {
+     "decks": [
+      {
+       "url": "https://marvelsnapzone.com/cards/iceman/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/korg/",
+       "card_name": "Korg",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/korg.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/armor/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/scorpion/",
+       "card_name": "Scorpion",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scorpion.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/sentinel/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/cosmo/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/killmonger/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/storm/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/enchantress/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/jessica-jones/",
+       "card_name": "Jessica Jones",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jessica-jones.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/shang-chi/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=23"
+      },
+      {
+       "url": "https://marvelsnapzone.com/cards/professor-x/",
+       "image": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x.webp?v=23"
+      }
+     ],
+     "name": "Control",
+     "pool": [
+      {
+       "pool_med": "1x Collection Level 1-14"
+      },
+      {
+       "pool_med": "5x Collection Level 18-214 (Pool 1)"
+      },
+      {
+       "pool_med": "5x Collection Level 222-474 (Pool 2)"
+      },
+      {
+       "pool_med": "1x Starter Card"
+      }
+     ],
+     "cost_med": "2.8",
+     "power_med": "2.8",
+     "code": "eyJOYW1lIjoiQ29udHJvbCIsIkNhcmRzIjpbeyJDYXJkRGVmSWQiOiJJY2VtYW4ifSx7IkNhcmREZWZJZCI6IktvcmcifSx7IkNhcmREZWZJZCI6IkFybW9yIn0seyJDYXJkRGVmSWQiOiJTY29ycGlvbiJ9LHsiQ2FyZERlZklkIjoiU2VudGluZWwifSx7IkNhcmREZWZJZCI6IkNvc21vIn0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJTdG9ybSJ9LHsiQ2FyZERlZklkIjoiRW5jaGFudHJlc3MifSx7IkNhcmREZWZJZCI6Ikplc3NpY2FKb25lcyJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IlByb2Zlc3NvclgifV19"
+    }
+   ],
+   "selection2": "Negative Surfer",
+   "selection2_url": "https://marvelsnapzone.com/decks/negative-surfer-6/"
+  },
+  {
+   "tier": "Tier 1",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "She-Hulk Baero",
+   "selection2_url": "https://marvelsnapzone.com/decks/baero-36/"
+  },
+  {
+   "tier": "Tier 1",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "eracle",
+   "selection2_url": "https://marvelsnapzone.com/decks/bast-seracle-1/"
+  },
+  {
+   "tier": "Tier 1",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Seracle Surfer",
+   "selection2_url": "https://marvelsnapzone.com/decks/seracle-surfer-1/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Electrus",
+   "selection2_url": "https://marvelsnapzone.com/decks/galactro-electrus/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Electrus",
+   "selection2_url": "https://marvelsnapzone.com/decks/galactro-electrus/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Patriot",
+   "selection2_url": "https://marvelsnapzone.com/decks/deck-patriot-77/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Patriot",
+   "selection2_url": "https://marvelsnapzone.com/decks/deck-patriot-77/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Zero",
+   "selection2_url": "https://marvelsnapzone.com/decks/deck-zero-9/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Zero",
+   "selection2_url": "https://marvelsnapzone.com/decks/deck-zero-9/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Deadpool",
+   "selection2_url": "https://marvelsnapzone.com/decks/deadpool-bast-1/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Deadpool",
+   "selection2_url": "https://marvelsnapzone.com/decks/deadpool-bast-1/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Ongoing Destroyer",
+   "selection2_url": "https://marvelsnapzone.com/decks/ongoing-destroyer-82/"
+  },
+  {
+   "tier": "Tier 2",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Ongoing Destroyer",
+   "selection2_url": "https://marvelsnapzone.com/decks/ongoing-destroyer-82/"
+  },
+  {
+   "tier": "Tier 3",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Bounce Thanos",
+   "selection2_url": "https://marvelsnapzone.com/decks/bounce-thanos/"
+  },
+  {
+   "tier": "Tier 3",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Discard Lockjaw",
+   "selection2_url": "https://marvelsnapzone.com/decks/discard-lockjaw-3/"
+  },
+  {
+   "tier": "Tier 3",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Wong On Reveal",
+   "selection2_url": "https://marvelsnapzone.com/decks/wongreveal-2/"
+  },
+  {
+   "tier": "Tier 3",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Kazoo",
+   "selection2_url": "https://marvelsnapzone.com/decks/kazoo-48/"
+  },
+  {
+   "tier": "Tier 4",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Movement",
+   "selection2_url": "https://marvelsnapzone.com/decks/deck-move-37/"
+  },
+  {
+   "tier": "Tier 4",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Valkyrie Control",
+   "selection2_url": "https://marvelsnapzone.com/decks/valkyrie-control/"
+  },
+  {
+   "tier": "Tier 4",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "C3r3bro",
+   "selection2_url": "https://marvelsnapzone.com/decks/c3r3bro-7/"
+  },
+  {
+   "tier": "Tier 4",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Moongirl Shenanigans",
+   "selection2_url": "https://marvelsnapzone.com/decks/moongirl-shenanigans/"
+  },
+  {
+   "tier": "Tier 4",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Handsize",
+   "selection2_url": "https://marvelsnapzone.com/decks/handsize-5/"
+  },
+  {
+   "tier": "Tier 4",
+   "deck_name": [
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    },
+    {
+    }
+   ],
+   "selection2": "Lockjaw Thanos",
+   "selection2_url": "https://marvelsnapzone.com/decks/lockjaw-thanos/"
+  }
+ ]
+}
