@@ -1,0 +1,108 @@
+{
+ "Tiers": [
+  {
+   "tier": "Tier 1",
+   "name": "Seracle Surfer"
+  },
+  {
+   "tier": "Tier 1",
+   "name": "Shuri Zero Panther"
+  },
+  {
+   "tier": "Tier 1",
+   "name": "Negative Surfer"
+  },
+  {
+   "tier": "Tier 2",
+   "name": "Good Cards"
+  },
+  {
+   "tier": "Tier 2",
+   "name": "Baero"
+  },
+  {
+   "tier": "Tier 2",
+   "name": "Galactus"
+  },
+  {
+   "tier": "Tier 2",
+   "name": "Electro Ramp"
+  },
+  {
+   "tier": "Tier 2",
+   "name": "Patriot"
+  },
+  {
+   "tier": "Tier 2",
+   "name": "Seracle Control"
+  },
+  {
+   "tier": "Tier 3",
+   "name": "Thanos Zoo"
+  },
+  {
+   "tier": "Tier 3",
+   "name": "Zerocula"
+  },
+  {
+   "tier": "Tier 3",
+   "name": "Lockjaw On Reveal"
+  },
+  {
+   "tier": "Tier 3",
+   "name": "Wong On Reveal"
+  },
+  {
+   "tier": "Tier 3",
+   "name": "Cerebro 2"
+  },
+  {
+   "tier": "Tier 3",
+   "name": "Ongoing Destroyer"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "Hela Discard"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "Darkhawk Rocks!"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "Discard Lockjaw"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "Movement"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "Deadpool"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "C3r3bro"
+  },
+  {
+   "tier": "Tier 4",
+   "name": "Valkyrie Control"
+  },
+  {
+   "tier": "Budget",
+   "name": "Handsize Destroy"
+  },
+  {
+   "tier": "Budget",
+   "name": "Ongoing"
+  },
+  {
+   "tier": "Budget",
+   "name": "Sandman Kazoo"
+  },
+  {
+   "tier": "Budget",
+   "name": "Control"
+  }
+ ]
+}
